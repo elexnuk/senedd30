@@ -11,7 +11,7 @@ useSeoMeta({
         "Design boundaries for the 16 Senedd constituencies for the 2030 Senedd Cymru election.",
     ogDescription:
         "Design boundaries for the 16 Senedd constituencies for the 2030 Senedd Cymru election.",
-    ogImage: "https://example.com/image.png",
+    ogImage: "https://senedd30.elexn.uk/screenshot.png",
     twitterCard: "summary_large_image",
 });
 
