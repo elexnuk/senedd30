@@ -137,10 +137,20 @@ const constituencyPopulation = computed(() => {
         <template v-if="expanded" #default>
             <UTable
                 sticky
-                :data="areas"
+                :data="
+                    areas.map((el) => {
+                        return {
+                            area: el.area,
+                            ward: el.ward,
+                            community: el.community,
+                            population: population.get(wardAreaKey(el)),
+                        };
+                    })
+                "
                 :columns="[
                     { accessorKey: 'ward', header: 'Community Ward' },
                     { accessorKey: 'community', header: 'Community Council' },
+                    { accessorKey: 'population', header: 'Population' },
                 ]"
                 class="w-full max-h-96 overflow-y-scroll"
             />

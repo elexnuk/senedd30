@@ -19,6 +19,39 @@ const emit = defineEmits<{
 <template>
     <div class="flex-col w-full h-full space-y-2 overflow-y-scroll">
         <UHeader class="w-full" title="Senedd 30">
+
+            <template #left>
+                <ULink class="shrink-0 font-bold text-xl text-highlighted flex items-end gap-1.5 cursor-pointer">
+                    Senedd30
+                </ULink>
+
+                <UModal
+                  title="Senedd30: Info"
+                  description="Tool to design custom Senedd Constituency boundaries."
+                >
+                  <UButton color="neutral" variant="outline" icon="i-lucide-info" class="cursor-pointer" />
+
+                  <template #body>
+                    <p>The Senedd is formed of 16 constituencies. For the 2026 election these were formed by pairing two Westminster constituencies
+                        together.
+                        For the next election in 2030, a boundary review will take place where new constituency boundaries will be formed.
+                        Each constituency has a target quota electorate (total number of electors in Wales divided by 16), and is allowed
+                        to be between 90% and 110% of this value.
+                    </p><br />
+                    <p>This tool allows you to draw custom boundaries to see what might be possible. To get started:</p>
+                    <ul class="list-disc list-inside">
+                        <li class="list-item">Create a new constituency</li>
+                        <li class="list-item">Click on the constituency in the list to select it</li>
+                        <li class="list-item">Click on the map to add to the constituency</li>
+                        <li class="list-item">Repeat, customise, and save images of your designs.</li>
+                    </ul>
+                    <p>You can also hold <strong class="font-bold">f</strong> to fill areas as you mouse over them.</p><br />
+                    <p>The tool uses Community Council wards as the basis for drawing boundaries, and the population for each is an estimate based on the the 2021 Census data,
+                        roughly fit to the community council boundaries by geographic overlap. This may be refined in future.</p>
+                  </template>
+                </UModal>
+            </template>
+
             <template #right>
                 <div class="flex flex-row items-center justify-end gap-4">
                     <span class="pointer-events-auto select-none"

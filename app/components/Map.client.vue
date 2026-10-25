@@ -310,35 +310,46 @@ onUnmounted(() => {
 
 <template>
     <div class="w-full h-full">
-        <UDropdownMenu
-            :items="[
-                {
-                    label: 'Download PNG',
-                    icon: 'i-lucide-image',
-                    class: 'cursor-pointer',
-                    onSelect: () => {
-                        downloadPNG(target!);
-                    },
-                },
-                {
-                    label: 'Download SVG',
-                    icon: 'i-lucide-vector-polygon',
-                    class: 'cursor-pointer',
-                    onSelect: () => {
-                        downloadSVG(target!);
-                    },
-                },
-            ]"
-        >
+
+        <div style="position: absolute; right: 1rem; top: 1rem;" class="flex flex-row space-x-2">
             <UButton
-                color="neutral"
-                variant="outline"
-                icon="i-lucide-chevron-down"
-                class="cursor-pointer"
+                v-if="fillMode"
+                color="secondary"
+                variant="subtle"
+                icon="i-lucide-paint-roller"
+                class="cursor-none"
                 size="xl"
-                style="position: absolute; right: 1rem; top: 1rem"
-            />
-        </UDropdownMenu>
+            >Fill Mode</UButton>
+
+            <UDropdownMenu
+                :items="[
+                    {
+                        label: 'Download PNG',
+                        icon: 'i-lucide-image',
+                        class: 'cursor-pointer',
+                        onSelect: () => {
+                            downloadPNG(target!);
+                        },
+                    },
+                    {
+                        label: 'Download SVG',
+                        icon: 'i-lucide-vector-polygon',
+                        class: 'cursor-pointer',
+                        onSelect: () => {
+                            downloadSVG(target!);
+                        },
+                    },
+                ]"
+            >
+                <UButton
+                    color="neutral"
+                    variant="outline"
+                    icon="i-lucide-chevron-down"
+                    class="cursor-pointer"
+                    size="xl"
+                />
+            </UDropdownMenu>
+        </div>
         <svg
             class="w-full h-full"
             ref="target"
