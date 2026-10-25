@@ -1,0 +1,1698 @@
+ward,community,area,population
+Gogleddol,Aberffraw,SIR_YNYS_MON_-_ISLE_OF_ANGLESEY,119.1813
+Deheuol,Aberffraw,SIR_YNYS_MON_-_ISLE_OF_ANGLESEY,329.6251
+Llangwyfan,Aberffraw,SIR_YNYS_MON_-_ISLE_OF_ANGLESEY,71.1936
+Maelog,Llanfaelog,SIR_YNYS_MON_-_ISLE_OF_ANGLESEY,604
+Port,Amlwch,SIR_YNYS_MON_-_ISLE_OF_ANGLESEY,1079.1852
+Town,Amlwch,SIR_YNYS_MON_-_ISLE_OF_ANGLESEY,937.2372
+Rural,Amlwch,SIR_YNYS_MON_-_ISLE_OF_ANGLESEY,1103.5776
+West,Beaumaris,SIR_YNYS_MON_-_ISLE_OF_ANGLESEY,727.4542
+Central,Beaumaris,SIR_YNYS_MON_-_ISLE_OF_ANGLESEY,489.9692
+East,Beaumaris,SIR_YNYS_MON_-_ISLE_OF_ANGLESEY,194.5766
+Heneglwys,Bodffordd,SIR_YNYS_MON_-_ISLE_OF_ANGLESEY,396.5276
+Bodwrog,Bodffordd,SIR_YNYS_MON_-_ISLE_OF_ANGLESEY,187.3923
+Llandrygarn,Bodffordd,SIR_YNYS_MON_-_ISLE_OF_ANGLESEY,234.0801
+Cerrigceinwen,Llangristiolus,SIR_YNYS_MON_-_ISLE_OF_ANGLESEY,472
+Trefdraeth,Bodorgan,SIR_YNYS_MON_-_ISLE_OF_ANGLESEY,601.2744
+Llangadwaladr,Bodorgan,SIR_YNYS_MON_-_ISLE_OF_ANGLESEY,218.7256
+Llangristiolus,Llangristiolus,SIR_YNYS_MON_-_ISLE_OF_ANGLESEY,681
+Braint,Llanfair Pwllgwyngyll,SIR_YNYS_MON_-_ISLE_OF_ANGLESEY,1229.4408
+Llanbeulan,Bryngwran,SIR_YNYS_MON_-_ISLE_OF_ANGLESEY,359.0703
+Bryngwran,Bryngwran,SIR_YNYS_MON_-_ISLE_OF_ANGLESEY,375.9297
+Trewalchmai,Trewalchmai,SIR_YNYS_MON_-_ISLE_OF_ANGLESEY,788
+Benllech 'B',Llanfair-Mathafarn-Eithaf,SIR_YNYS_MON_-_ISLE_OF_ANGLESEY,1274.774
+Brynteg,Llanfair-Mathafarn-Eithaf,SIR_YNYS_MON_-_ISLE_OF_ANGLESEY,312.226
+Cadnant,Menai Bridge,SIR_YNYS_MON_-_ISLE_OF_ANGLESEY,942.2308
+Tysilio,Menai Bridge,SIR_YNYS_MON_-_ISLE_OF_ANGLESEY,1674.7692
+Cefni,Llangefni,SIR_YNYS_MON_-_ISLE_OF_ANGLESEY,1392.0599
+Llandegfan,Cwm Cadnant,SIR_YNYS_MON_-_ISLE_OF_ANGLESEY,1522.3988
+Llansadwrn,Cwm Cadnant,SIR_YNYS_MON_-_ISLE_OF_ANGLESEY,194.3656
+Penmynydd,Penmynydd,SIR_YNYS_MON_-_ISLE_OF_ANGLESEY,489.2043
+Cyngar,Llangefni,SIR_YNYS_MON_-_ISLE_OF_ANGLESEY,1766.6536
+Gwyngyll,Llanfair Pwllgwyngyll,SIR_YNYS_MON_-_ISLE_OF_ANGLESEY,1256.5592
+Town,Holyhead,SIR_YNYS_MON_-_ISLE_OF_ANGLESEY,967.1698
+Porthyfelin,Holyhead,SIR_YNYS_MON_-_ISLE_OF_ANGLESEY,1809.4624
+Kingsland,Holyhead,SIR_YNYS_MON_-_ISLE_OF_ANGLESEY,1368.0808
+Cemaes,Llanbadrig,SIR_YNYS_MON_-_ISLE_OF_ANGLESEY,795.0964
+Padrig,Llanbadrig,SIR_YNYS_MON_-_ISLE_OF_ANGLESEY,225.9036
+Llanbedrgoch,Llanfair-Mathafarn-Eithaf,SIR_YNYS_MON_-_ISLE_OF_ANGLESEY,415.025
+Benllech 'A',Llanfair-Mathafarn-Eithaf,SIR_YNYS_MON_-_ISLE_OF_ANGLESEY,782.175
+Pentraeth,Pentraeth,SIR_YNYS_MON_-_ISLE_OF_ANGLESEY,978.8
+Llanddyfnan,Llanddyfnan,SIR_YNYS_MON_-_ISLE_OF_ANGLESEY,457.045
+Llanfihangel-Tre'r-Beirdd,Llanddyfnan,SIR_YNYS_MON_-_ISLE_OF_ANGLESEY,101.007
+Tregaean,Llanddyfnan,SIR_YNYS_MON_-_ISLE_OF_ANGLESEY,160.1301
+Llangwyllog,Llanddyfnan,SIR_YNYS_MON_-_ISLE_OF_ANGLESEY,185.8179
+Llaneugrad,Llaneugrad,SIR_YNYS_MON_-_ISLE_OF_ANGLESEY,230
+Llwyfo,Llaneilian,SIR_YNYS_MON_-_ISLE_OF_ANGLESEY,629.3662
+Eilian,Llaneilian,SIR_YNYS_MON_-_ISLE_OF_ANGLESEY,440.6338
+Rhosybol,Rhosybol,SIR_YNYS_MON_-_ISLE_OF_ANGLESEY,594.7301
+Llandyfrydog,Rhosybol,SIR_YNYS_MON_-_ISLE_OF_ANGLESEY,307.2699
+Llanrhuddlad,Cylch-y-Garn,SIR_YNYS_MON_-_ISLE_OF_ANGLESEY,403
+Llanfachraeth,Llanfachraeth,SIR_YNYS_MON_-_ISLE_OF_ANGLESEY,490
+Llanfwrog,Llanfaethlu,SIR_YNYS_MON_-_ISLE_OF_ANGLESEY,129.8676
+Llanfaethlu,Llanfaethlu,SIR_YNYS_MON_-_ISLE_OF_ANGLESEY,328.1324
+Bodedern,Bodedern,SIR_YNYS_MON_-_ISLE_OF_ANGLESEY,937
+Llanfair-yn-Neubwll,Llanfair-yn-Neubwll,SIR_YNYS_MON_-_ISLE_OF_ANGLESEY,1327
+Llanfihangel Ysgeifiog,Llanfihangel Ysgeifiog,SIR_YNYS_MON_-_ISLE_OF_ANGLESEY,1366
+Llangoed,Llangoed,SIR_YNYS_MON_-_ISLE_OF_ANGLESEY,775.9494
+Penmon,Llangoed,SIR_YNYS_MON_-_ISLE_OF_ANGLESEY,306.0506
+Llanddaniel Fab,Llanddaniel Fab,SIR_YNYS_MON_-_ISLE_OF_ANGLESEY,686
+Llanidan,Llanidan,SIR_YNYS_MON_-_ISLE_OF_ANGLESEY,851
+Rhodogeidio,Llannerch-y-Medd,SIR_YNYS_MON_-_ISLE_OF_ANGLESEY,204.7851
+Llannerchymedd,Llannerch-y-Medd,SIR_YNYS_MON_-_ISLE_OF_ANGLESEY,651.5623
+Coedana,Llannerch-y-Medd,SIR_YNYS_MON_-_ISLE_OF_ANGLESEY,267.6526
+Llanddeusant,Tref Alaw,SIR_YNYS_MON_-_ISLE_OF_ANGLESEY,172.0083
+Llantrisant,Tref Alaw,SIR_YNYS_MON_-_ISLE_OF_ANGLESEY,121.9936
+Llanbabo,Tref Alaw,SIR_YNYS_MON_-_ISLE_OF_ANGLESEY,128.7006
+Llechcynfarwy,Tref Alaw,SIR_YNYS_MON_-_ISLE_OF_ANGLESEY,50.2753
+London Road,Holyhead,SIR_YNYS_MON_-_ISLE_OF_ANGLESEY,1402.2828
+Morawelon,Holyhead,SIR_YNYS_MON_-_ISLE_OF_ANGLESEY,1209.4583
+Maeshyfryd,Holyhead,SIR_YNYS_MON_-_ISLE_OF_ANGLESEY,1797.668
+Parc a'r Mynydd,Holyhead,SIR_YNYS_MON_-_ISLE_OF_ANGLESEY,1150.6208
+Llanfairynghornwy,Cylch-y-Garn,SIR_YNYS_MON_-_ISLE_OF_ANGLESEY,206
+Carreg-lefn,Mechell,SIR_YNYS_MON_-_ISLE_OF_ANGLESEY,258.2697
+Llanfechell,Mechell,SIR_YNYS_MON_-_ISLE_OF_ANGLESEY,858.7303
+Llanallgo,Moelfre,SIR_YNYS_MON_-_ISLE_OF_ANGLESEY,550.977
+Penrhos Lligwy,Moelfre,SIR_YNYS_MON_-_ISLE_OF_ANGLESEY,240.023
+Llanddona,Llanddona,SIR_YNYS_MON_-_ISLE_OF_ANGLESEY,318.2622
+Llaniestyn,Llanddona,SIR_YNYS_MON_-_ISLE_OF_ANGLESEY,248.7378
+Rhosneigr,Llanfaelog,SIR_YNYS_MON_-_ISLE_OF_ANGLESEY,689
+Llangeinwen,Rhosyr,SIR_YNYS_MON_-_ISLE_OF_ANGLESEY,813.2473
+Newborough,Rhosyr,SIR_YNYS_MON_-_ISLE_OF_ANGLESEY,843.2299
+Llangaffo,Rhosyr,SIR_YNYS_MON_-_ISLE_OF_ANGLESEY,226.5228
+Rhoscolyn,Rhoscolyn,SIR_YNYS_MON_-_ISLE_OF_ANGLESEY,427
+Trearddur,Trearddur,SIR_YNYS_MON_-_ISLE_OF_ANGLESEY,1126.258
+Tudur,Llangefni,SIR_YNYS_MON_-_ISLE_OF_ANGLESEY,1129.2865
+West,Valley,SIR_YNYS_MON_-_ISLE_OF_ANGLESEY,561.2477
+Village,Valley,SIR_YNYS_MON_-_ISLE_OF_ANGLESEY,917.0144
+Gorad,Valley,SIR_YNYS_MON_-_ISLE_OF_ANGLESEY,367.965
+Llanynghenedl,Valley,SIR_YNYS_MON_-_ISLE_OF_ANGLESEY,142.7456
+South,Aberdaron,GWYNEDD_-_GWYNEDD,357.6223
+North,Aberdaron,GWYNEDD_-_GWYNEDD,222.5085
+East,Aberdaron,GWYNEDD_-_GWYNEDD,164.8692
+Dyfi,Aberdovey,GWYNEDD_-_GWYNEDD,561.892
+Abertafol,Aberdovey,GWYNEDD_-_GWYNEDD,67.108
+Pennal,Pennal,GWYNEDD_-_GWYNEDD,301
+Y Ffr,Llannor,GWYNEDD_-_GWYNEDD,502.6324
+Abererch,Llannor,GWYNEDD_-_GWYNEDD,550.3676
+Barmouth,Barmouth,GWYNEDD_-_GWYNEDD,1778
+Abersoch,Llanengan,GWYNEDD_-_GWYNEDD,523
+Aber,Aber,GWYNEDD_-_GWYNEDD,168
+Llandygai,Llandygai,GWYNEDD_-_GWYNEDD,285.7332
+Isaf,Llanllechid,GWYNEDD_-_GWYNEDD,409.827
+Uchaf,Llanllechid,GWYNEDD_-_GWYNEDD,351.173
+Bala,Bala,GWYNEDD_-_GWYNEDD,1651
+Bethel,Llanddeiniolen,GWYNEDD_-_GWYNEDD,1069
+Castellmai,Bontnewydd,GWYNEDD_-_GWYNEDD,676.8703
+Llanfaglan,Bontnewydd,GWYNEDD_-_GWYNEDD,194.1297
+Bryncroes,Botwnnog,GWYNEDD_-_GWYNEDD,360.606
+Meillteyrn,Botwnnog,GWYNEDD_-_GWYNEDD,188.1295
+Botwnnog,Botwnnog,GWYNEDD_-_GWYNEDD,261.2917
+Tanygrisiau,Ffestiniog,GWYNEDD_-_GWYNEDD,278.6475
+Bowydd and Rhiw,Ffestiniog,GWYNEDD_-_GWYNEDD,1100.3525
+Machreth,Brithdir and Llanfachreth,GWYNEDD_-_GWYNEDD,409.4086
+Brithdir,Brithdir and Llanfachreth,GWYNEDD_-_GWYNEDD,243.5914
+Ganllwyd,Ganllwyd,GWYNEDD_-_GWYNEDD,138
+Llanelltyd,Llanelltyd,GWYNEDD_-_GWYNEDD,412
+Bryn-Crug,Bryn-Crug,GWYNEDD_-_GWYNEDD,518
+Llanfihangel-y-Pennant,Llanfihangel-y-Pennant,GWYNEDD_-_GWYNEDD,268
+Cadnant,Caernarfon,GWYNEDD_-_GWYNEDD,1446.6272
+Peblig,Caernarfon,GWYNEDD_-_GWYNEDD,1894.7036
+Canol Tref,Caernarfon,GWYNEDD_-_GWYNEDD,1581.9913
+Menai,Caernarfon,GWYNEDD_-_GWYNEDD,1569.4799
+Beuno,Clynnog,GWYNEDD_-_GWYNEDD,338.8912
+Lleuar,Clynnog,GWYNEDD_-_GWYNEDD,280.8745
+Derwin,Clynnog,GWYNEDD_-_GWYNEDD,165.2343
+Corris,Corris,GWYNEDD_-_GWYNEDD,531
+Dinas Mawddwy,Mawddwy,GWYNEDD_-_GWYNEDD,317.0618
+Aberangell,Mawddwy,GWYNEDD_-_GWYNEDD,76.9976
+Llanymawddwy,Mawddwy,GWYNEDD_-_GWYNEDD,174.9665
+Criccieth,Criccieth,GWYNEDD_-_GWYNEDD,1485
+Ceunant,Llanrug,GWYNEDD_-_GWYNEDD,547.9914
+Cwm y Glo,Llanrug,GWYNEDD_-_GWYNEDD,264.0086
+Hirael,Bangor,GWYNEDD_-_GWYNEDD,1906.538
+Hendre,Bangor,GWYNEDD_-_GWYNEDD,2576.4293
+Marchog,Bangor,GWYNEDD_-_GWYNEDD,1843.8119
+Deiniolen,Llanddeiniolen,GWYNEDD_-_GWYNEDD,999.5746
+Clwt y Bont,Llanddeiniolen,GWYNEDD_-_GWYNEDD,173.5848
+Dinorwic,Llanddeiniolen,GWYNEDD_-_GWYNEDD,340.489
+Penisarwaun,Llanddeiniolen,GWYNEDD_-_GWYNEDD,601.1519
+Dewi,Bangor,GWYNEDD_-_GWYNEDD,1544.2866
+Diffwys and Maenofferen,Ffestiniog,GWYNEDD_-_GWYNEDD,1127.8624
+Bryncir,Dolbenmaen,GWYNEDD_-_GWYNEDD,233.2601
+Garn,Dolbenmaen,GWYNEDD_-_GWYNEDD,80.8233
+Golan,Dolbenmaen,GWYNEDD_-_GWYNEDD,425.5866
+Penmorfa,Dolbenmaen,GWYNEDD_-_GWYNEDD,52.02
+Treflys,Dolbenmaen,GWYNEDD_-_GWYNEDD,194.31
+Northern,Dolgellau,GWYNEDD_-_GWYNEDD,1052.3535
+Southern,Dolgellau,GWYNEDD_-_GWYNEDD,1166.6465
+Llanddwywe,Dyffryn Ardudwy,GWYNEDD_-_GWYNEDD,524.146
+Llanenddwyn,Dyffryn Ardudwy,GWYNEDD_-_GWYNEDD,740.854
+Bachellaeth,Buan,GWYNEDD_-_GWYNEDD,150.282
+Bodfuan,Buan,GWYNEDD_-_GWYNEDD,133.7292
+Ceidio,Buan,GWYNEDD_-_GWYNEDD,111.9492
+Pentre-uchaf,Llannor,GWYNEDD_-_GWYNEDD,277.4596
+Efail-newydd,Llannor,GWYNEDD_-_GWYNEDD,413.5404
+Garth,Bangor,GWYNEDD_-_GWYNEDD,849.1304
+Rachub,Bethesda,GWYNEDD_-_GWYNEDD,1294.0686
+Gerlan,Bethesda,GWYNEDD_-_GWYNEDD,1097.1645
+Glyder,Bangor,GWYNEDD_-_GWYNEDD,1370.2361
+Groeslon,Llandwrog,GWYNEDD_-_GWYNEDD,1105.1707
+Dinas Dinlle,Llandwrog,GWYNEDD_-_GWYNEDD,290.8293
+Harlech,Harlech,GWYNEDD_-_GWYNEDD,1096
+Talsarnau,Talsarnau,GWYNEDD_-_GWYNEDD,479.4707
+Llanaelhaearn,Trefor a Llanaelhaearn,GWYNEDD_-_GWYNEDD,399.7194
+Trefor,Trefor a Llanaelhaearn,GWYNEDD_-_GWYNEDD,474.2806
+Llithfaen,Pistyll,GWYNEDD_-_GWYNEDD,206.0632
+Pistyll,Pistyll,GWYNEDD_-_GWYNEDD,131.4852
+Carnguwch,Pistyll,GWYNEDD_-_GWYNEDD,82.4208
+Llanbedr,Llanbedr,GWYNEDD_-_GWYNEDD,546.1888
+Llanfair,Llanfair,GWYNEDD_-_GWYNEDD,263.8112
+Llanbedrog,Llanbedrog,GWYNEDD_-_GWYNEDD,712
+Nant Peris,Llanberis,GWYNEDD_-_GWYNEDD,311.5338
+Padarn,Llanberis,GWYNEDD_-_GWYNEDD,1365.4662
+Llan y Betws,Llandderfel,GWYNEDD_-_GWYNEDD,445.6859
+Llanfor,Llandderfel,GWYNEDD_-_GWYNEDD,473.3141
+Llanycil,Llanycil,GWYNEDD_-_GWYNEDD,351
+Llangian,Llanengan,GWYNEDD_-_GWYNEDD,591.898
+Llanengan,Llanengan,GWYNEDD_-_GWYNEDD,344.102
+Friog,Arthog,GWYNEDD_-_GWYNEDD,645.4326
+Islaw'r-dref,Arthog,GWYNEDD_-_GWYNEDD,230.5674
+Llanegryn,Llanegryn,GWYNEDD_-_GWYNEDD,257
+Llangelynnin,Llangelynnin,GWYNEDD_-_GWYNEDD,562
+Llanllyfni,Llanllyfni,GWYNEDD_-_GWYNEDD,666.226
+Nebo,Llanllyfni,GWYNEDD_-_GWYNEDD,162.8096
+Nantlle,Llanllyfni,GWYNEDD_-_GWYNEDD,149.9644
+Llanrug,Llanrug,GWYNEDD_-_GWYNEDD,1465
+Gwalia,Llangywer,GWYNEDD_-_GWYNEDD,155.1627
+Cwm y Glyn,Llangywer,GWYNEDD_-_GWYNEDD,75.8373
+Llanuwchllyn,Llanuwchllyn,GWYNEDD_-_GWYNEDD,490
+Rhosgadfan,Llanwnda,GWYNEDD_-_GWYNEDD,539.0575
+Rhostryfan,Llanwnda,GWYNEDD_-_GWYNEDD,742.6825
+Dinas,Llanwnda,GWYNEDD_-_GWYNEDD,355.26
+Llanarmon,Llanystumdwy,GWYNEDD_-_GWYNEDD,535.9432
+Llanystumdwy,Llanystumdwy,GWYNEDD_-_GWYNEDD,436.2734
+Llangybi,Llanystumdwy,GWYNEDD_-_GWYNEDD,339.7135
+Rhoslan,Llanystumdwy,GWYNEDD_-_GWYNEDD,310.0699
+Menai,Bangor,GWYNEDD_-_GWYNEDD,2946.8696
+Morfa Nefyn,Nefyn,GWYNEDD_-_GWYNEDD,640.2509
+Edern,Nefyn,GWYNEDD_-_GWYNEDD,368.7491
+Nefyn,Nefyn,GWYNEDD_-_GWYNEDD,1068
+Ogwen,Bethesda,GWYNEDD_-_GWYNEDD,1333.7669
+Rhiwlas,Llanddeiniolen,GWYNEDD_-_GWYNEDD,612.8256
+Brynrefail,Llanddeiniolen,GWYNEDD_-_GWYNEDD,183.3975
+Llanfrothen,Llanfrothen,GWYNEDD_-_GWYNEDD,359
+Penrhyndeudraeth,Penrhyndeudraeth,GWYNEDD_-_GWYNEDD,1651.5293
+Vaynol,Pentir,GWYNEDD_-_GWYNEDD,1967.2841
+Glasinfryn,Pentir,GWYNEDD_-_GWYNEDD,538.3977
+Penygroes,Llanllyfni,GWYNEDD_-_GWYNEDD,1455
+East,Porthmadog,GWYNEDD_-_GWYNEDD,889.0571
+West,Porthmadog,GWYNEDD_-_GWYNEDD,671.2072
+Ynys Galch,Porthmadog,GWYNEDD_-_GWYNEDD,489.779
+Gest,Porthmadog,GWYNEDD_-_GWYNEDD,218.4166
+Morfa Bychan,Porthmadog,GWYNEDD_-_GWYNEDD,491.5401
+Beddgelert,Beddgelert,GWYNEDD_-_GWYNEDD,396
+Tremadog,Porthmadog,GWYNEDD_-_GWYNEDD,313.5911
+North,Pwllheli,GWYNEDD_-_GWYNEDD,1760
+South,Pwllheli,GWYNEDD_-_GWYNEDD,1500
+Hendre,Caernarfon,GWYNEDD_-_GWYNEDD,1553.198
+Cesarea,Llandwrog,GWYNEDD_-_GWYNEDD,235.3112
+Carmel,Llandwrog,GWYNEDD_-_GWYNEDD,473.6888
+Talysarn,Llanllyfni,GWYNEDD_-_GWYNEDD,838
+Cynfal and Teigl,Ffestiniog,GWYNEDD_-_GWYNEDD,601.1518
+Conglwal,Ffestiniog,GWYNEDD_-_GWYNEDD,662.9858
+Maentwrog,Maentwrog,GWYNEDD_-_GWYNEDD,475
+Trawsfynydd,Trawsfynydd,GWYNEDD_-_GWYNEDD,733
+Tregarth,Llandygai,GWYNEDD_-_GWYNEDD,1226.6683
+St. Ann's,Llandygai,GWYNEDD_-_GWYNEDD,520.3317
+Tudweiliog,Tudweiliog,GWYNEDD_-_GWYNEDD,275.9362
+Llangwnnadl,Tudweiliog,GWYNEDD_-_GWYNEDD,144.4646
+Dinas,Tudweiliog,GWYNEDD_-_GWYNEDD,294.5766
+Morfa,Tywyn,GWYNEDD_-_GWYNEDD,1525.0506
+West,Tywyn,GWYNEDD_-_GWYNEDD,1018.4996
+East,Tywyn,GWYNEDD_-_GWYNEDD,162.4735
+Rhyd-ddu,Betws Garmon,GWYNEDD_-_GWYNEDD,133.9597
+Betws Garmon,Betws Garmon,GWYNEDD_-_GWYNEDD,69.0403
+Caethro,Waunfawr,GWYNEDD_-_GWYNEDD,331.9276
+Waunfawr,Waunfawr,GWYNEDD_-_GWYNEDD,856.0724
+Y Felinheli,Y Felinheli,GWYNEDD_-_GWYNEDD,1923.3182
+Pensarn,Abergele,CONWY_-_CONWY,2103.8556
+Betws-y-Coed,Betws-y-Coed,CONWY_-_CONWY,416
+Capel Curig,Capel Curig,CONWY_-_CONWY,187
+Dolwyddelan,Dolwyddelan,CONWY_-_CONWY,392
+Llanelian yn Rhos,Betws Yn Rhos,CONWY_-_CONWY,227.827
+Betws yn Rhos,Betws Yn Rhos,CONWY_-_CONWY,602.173
+Llanfair Talhaiarn,Llanfair Talhaiarn,CONWY_-_CONWY,838
+Lafan,Llanfairfechan,CONWY_-_CONWY,395.0412
+Bryn,Llanfairfechan,CONWY_-_CONWY,1058.9588
+Tyn-y-groes,Caerhun,CONWY_-_CONWY,733.0916
+Llanbedr-y-Cennin,Caerhun,CONWY_-_CONWY,70.242
+Tal-y-bont,Caerhun,CONWY_-_CONWY,296.6664
+Llangelynin,Henryd,CONWY_-_CONWY,240.091
+Llechwedd,Henryd,CONWY_-_CONWY,350.909
+Capelulo,Penmaenmawr,CONWY_-_CONWY,1304
+Colwyn,Old Colwyn,CONWY_-_CONWY,3693.6472
+Eirias,Old Colwyn,CONWY_-_CONWY,2984.3528
+Aberconwy,Conwy,CONWY_-_CONWY,1481.2236
+Castle,Conwy,CONWY_-_CONWY,2097.7764
+Craig-y-Don,Llandudno,CONWY_-_CONWY,2945.5683
+Tudno,Llandudno,CONWY_-_CONWY,4137.1681
+Crwst,Llanrwst,CONWY_-_CONWY,1704.139
+Deganwy,Conwy,CONWY_-_CONWY,3035.4596
+Eglwysbach,Eglwysbach,CONWY_-_CONWY,758
+Maenan,Llanddoged and Maenan,CONWY_-_CONWY,297.7279
+Llanddoged,Llanddoged and Maenan,CONWY_-_CONWY,231.2721
+Gele,Abergele,CONWY_-_CONWY,3928.266
+St. George,Abergele,CONWY_-_CONWY,257.1336
+Pentre Mawr,Abergele,CONWY_-_CONWY,3275.7448
+Glyn,Colwyn Bay,CONWY_-_CONWY,3575.2521
+Rhiw,Colwyn Bay,CONWY_-_CONWY,4895.5497
+Gogarth,Llandudno,CONWY_-_CONWY,3157.0994
+Gower,Llanrwst,CONWY_-_CONWY,864.861
+Kinmel Bay,Kinmel Bay and Towyn,CONWY_-_CONWY,4891
+Dulas,Llanddulas and Rhyd-y-Foel,CONWY_-_CONWY,992.0276
+Rhyd-y-Foel,Llanddulas and Rhyd-y-Foel,CONWY_-_CONWY,398.9724
+Dinarth,Rhos-on-Sea,CONWY_-_CONWY,2303.1988
+Rhos,Rhos-on-Sea,CONWY_-_CONWY,4675.0792
+Pandy Tudur,Llangernyw,CONWY_-_CONWY,306.8701
+Llangernyw,Llangernyw,CONWY_-_CONWY,424.8979
+Gwytherin,Llangernyw,CONWY_-_CONWY,167.264
+Pentrefoelas,Pentrefoelas,CONWY_-_CONWY,281
+Bryn Rhys,Llansanffraid Glan Conwy,CONWY_-_CONWY,882.1775
+Fforddlas,Llansanffraid Glan Conwy,CONWY_-_CONWY,948.8225
+Llannefydd,Llannefydd,CONWY_-_CONWY,473
+Llansannan,Llansannan,CONWY_-_CONWY,692.6783
+Bylchau,Llansannan,CONWY_-_CONWY,359.3217
+Llysfaen,Llysfaen,CONWY_-_CONWY,1457.6396
+Peulwys,Llysfaen,CONWY_-_CONWY,617.3604
+Marl,Conwy,CONWY_-_CONWY,3788.9855
+Mochdre,Mochdre,CONWY_-_CONWY,1565.9202
+Mostyn,Llandudno,CONWY_-_CONWY,2980.9006
+Pandy,Llanfairfechan,CONWY_-_CONWY,1499
+Pant-yr-afon,Penmaenmawr,CONWY_-_CONWY,1687.5488
+Penmaenan,Penmaenmawr,CONWY_-_CONWY,626.4512
+Penrhyn,Llandudno,CONWY_-_CONWY,3974.6105
+Pensarn,Conwy,CONWY_-_CONWY,2432.208
+Towyn,Kinmel Bay and Towyn,CONWY_-_CONWY,1960
+Dolgarrog,Dolgarrog,CONWY_-_CONWY,354
+Llanrhychwyn,Trefriw,CONWY_-_CONWY,124.9382
+Trefriw,Trefriw,CONWY_-_CONWY,563.0618
+Capel Garmon,Bro Garmon,CONWY_-_CONWY,302.519
+Melin-y-coed,Bro Garmon,CONWY_-_CONWY,260.481
+Cwm,Bro Machno,CONWY_-_CONWY,218.8485
+Penmachno,Bro Machno,CONWY_-_CONWY,294.1515
+Tir Ifan,Ysbyty Ifan,CONWY_-_CONWY,101.6572
+Eidda,Ysbyty Ifan,CONWY_-_CONWY,56.3428
+Cerrigydrudion,Cerrigydrudion,CONWY_-_CONWY,605
+Llanfihangel Glyn Myfyr,Llanfihangel Glyn Myfyr,CONWY_-_CONWY,167
+Llangwm,Llangwm,CONWY_-_CONWY,401
+Bodelwyddan,Bodelwyddan,SIR_DDINBYCH_-_DENBIGHSHIRE,1736
+Upper,Corwen,SIR_DDINBYCH_-_DENBIGHSHIRE,1273.422
+Lower,Corwen,SIR_DDINBYCH_-_DENBIGHSHIRE,593.578
+Central,Denbigh,SIR_DDINBYCH_-_DENBIGHSHIRE,1612.9962
+Lower,Denbigh,SIR_DDINBYCH_-_DENBIGHSHIRE,3708
+Upper,Denbigh,SIR_DDINBYCH_-_DENBIGHSHIRE,1719.0038
+Henllan,Henllan,SIR_DDINBYCH_-_DENBIGHSHIRE,700
+Dyserth,Dyserth,SIR_DDINBYCH_-_DENBIGHSHIRE,2159.5432
+Betws Gwerfil Goch,Betws Gwerfil Goch,SIR_DDINBYCH_-_DENBIGHSHIRE,257
+Clocaenog,Clocaenog,SIR_DDINBYCH_-_DENBIGHSHIRE,204
+Derwen,Derwen,SIR_DDINBYCH_-_DENBIGHSHIRE,366
+Efenechtyd,Efenechtyd,SIR_DDINBYCH_-_DENBIGHSHIRE,512
+Llanarmon-yn-Ial,Llanarmon-yn-Ial,SIR_DDINBYCH_-_DENBIGHSHIRE,925
+Llandegla,Llandegla,SIR_DDINBYCH_-_DENBIGHSHIRE,519
+Llanferres,Llanferres,SIR_DDINBYCH_-_DENBIGHSHIRE,649
+Llanbedr Dyffryn Clwyd,Llanbedr Dyffryn Clwyd,SIR_DDINBYCH_-_DENBIGHSHIRE,737
+Llangynhafal,Llangynhafal,SIR_DDINBYCH_-_DENBIGHSHIRE,522
+Cynwyd,Cynwyd,SIR_DDINBYCH_-_DENBIGHSHIRE,494
+Llandrillo,Llandrillo,SIR_DDINBYCH_-_DENBIGHSHIRE,512
+Aberwheeler,Aberwheeler,SIR_DDINBYCH_-_DENBIGHSHIRE,263
+Llandyrnog,Llandyrnog,SIR_DDINBYCH_-_DENBIGHSHIRE,929
+Llanynys,Llanynys,SIR_DDINBYCH_-_DENBIGHSHIRE,676
+Bryneglwys,Bryneglwys,SIR_DDINBYCH_-_DENBIGHSHIRE,291
+Gwyddelwern,Gwyddelwern,SIR_DDINBYCH_-_DENBIGHSHIRE,407
+Llanelidan,Llanelidan,SIR_DDINBYCH_-_DENBIGHSHIRE,294
+Llanfair Dyffryn Clwyd,Llanfair Dyffryn Clwyd,SIR_DDINBYCH_-_DENBIGHSHIRE,909
+Llangollen,Llangollen,SIR_DDINBYCH_-_DENBIGHSHIRE,3096
+Llantysilio,Llantysilio,SIR_DDINBYCH_-_DENBIGHSHIRE,381
+Cyffylliog,Cyffylliog,SIR_DDINBYCH_-_DENBIGHSHIRE,392
+Llanrhaeadr-Yng-Nghinmeirch,Llanrhaeadr-Yng-Nghinmeirch,SIR_DDINBYCH_-_DENBIGHSHIRE,873
+Nantglyn,Nantglyn,SIR_DDINBYCH_-_DENBIGHSHIRE,256
+Central,Prestatyn,SIR_DDINBYCH_-_DENBIGHSHIRE,2912.1223
+Meliden,Prestatyn,SIR_DDINBYCH_-_DENBIGHSHIRE,1614.9274
+South West,Prestatyn,SIR_DDINBYCH_-_DENBIGHSHIRE,2962.6564
+East,Prestatyn,SIR_DDINBYCH_-_DENBIGHSHIRE,3311
+North West,Prestatyn,SIR_DDINBYCH_-_DENBIGHSHIRE,1400.7418
+Brynhedydd,Rhyl,SIR_DDINBYCH_-_DENBIGHSHIRE,1828.9149
+North,Prestatyn,SIR_DDINBYCH_-_DENBIGHSHIRE,3493.9449
+Rhuddlan,Rhuddlan,SIR_DDINBYCH_-_DENBIGHSHIRE,3151.5943
+Derwen,Rhyl,SIR_DDINBYCH_-_DENBIGHSHIRE,3014.3306
+Trellewelyn,Rhyl,SIR_DDINBYCH_-_DENBIGHSHIRE,3325.694
+Ty Newydd,Rhyl,SIR_DDINBYCH_-_DENBIGHSHIRE,3312.5306
+Plastirion,Rhyl,SIR_DDINBYCH_-_DENBIGHSHIRE,2152.0311
+Pendyffryn,Rhyl,SIR_DDINBYCH_-_DENBIGHSHIRE,1468.718
+Cefndy,Rhyl,SIR_DDINBYCH_-_DENBIGHSHIRE,2624.1156
+Foryd,Rhyl,SIR_DDINBYCH_-_DENBIGHSHIRE,1854.304
+Bodfor,Rhyl,SIR_DDINBYCH_-_DENBIGHSHIRE,1906.8699
+Ruthin,Ruthin,SIR_DDINBYCH_-_DENBIGHSHIRE,4696
+East,St. Asaph,SIR_DDINBYCH_-_DENBIGHSHIRE,1553.2438
+West,St. Asaph,SIR_DDINBYCH_-_DENBIGHSHIRE,1382.7562
+Cefnmeiriadog,Cefnmeiriadog,SIR_DDINBYCH_-_DENBIGHSHIRE,324
+Trefnant,Trefnant,SIR_DDINBYCH_-_DENBIGHSHIRE,1278
+Bodfari,Bodfari,SIR_DDINBYCH_-_DENBIGHSHIRE,320
+Cwm,Cwm,SIR_DDINBYCH_-_DENBIGHSHIRE,286
+Tremeirchion,Tremeirchion,SIR_DDINBYCH_-_DENBIGHSHIRE,595
+Waen,Waen,SIR_DDINBYCH_-_DENBIGHSHIRE,189
+East,Argoed,SIR_Y_FFLINT_-_FLINTSHIRE,1620.5063
+South,Argoed,SIR_Y_FFLINT_-_FLINTSHIRE,614.5005
+West,Argoed,SIR_Y_FFLINT_-_FLINTSHIRE,1461.406
+Mountain,Buckley,SIR_Y_FFLINT_-_FLINTSHIRE,2222.4537
+New Brighton,Argoed,SIR_Y_FFLINT_-_FLINTSHIRE,1129.2681
+Aston,Hawarden,SIR_Y_FFLINT_-_FLINTSHIRE,3337.3636
+Hawarden,Hawarden,SIR_Y_FFLINT_-_FLINTSHIRE,936.2092
+Ewloe,Hawarden,SIR_Y_FFLINT_-_FLINTSHIRE,4545.128
+East,Bagillt,SIR_Y_FFLINT_-_FLINTSHIRE,1544
+West,Bagillt,SIR_Y_FFLINT_-_FLINTSHIRE,1765
+North East,Broughton and Bretton,SIR_Y_FFLINT_-_FLINTSHIRE,1908.1287
+South,Broughton and Bretton,SIR_Y_FFLINT_-_FLINTSHIRE,3450.8213
+Brynford,Brynford,SIR_Y_FFLINT_-_FLINTSHIRE,885
+Pentre Halkyn,Halkyn,SIR_Y_FFLINT_-_FLINTSHIRE,934
+Bistre East,Buckley,SIR_Y_FFLINT_-_FLINTSHIRE,3263.1099
+Bistre West,Buckley,SIR_Y_FFLINT_-_FLINTSHIRE,3406.7172
+Pentrobin,Buckley,SIR_Y_FFLINT_-_FLINTSHIRE,4365.098
+Caergwrle,Hope,SIR_Y_FFLINT_-_FLINTSHIRE,1320.147
+Hope,Hope,SIR_Y_FFLINT_-_FLINTSHIRE,2102.9168
+Caerwys,Caerwys,SIR_Y_FFLINT_-_FLINTSHIRE,1053
+Ysceifiog,Ysceifiog,SIR_Y_FFLINT_-_FLINTSHIRE,1078
+Rhydymwyn,Cilcain,SIR_Y_FFLINT_-_FLINTSHIRE,576.341
+Cilcain,Cilcain,SIR_Y_FFLINT_-_FLINTSHIRE,578.659
+Nannerch,Nannerch,SIR_Y_FFLINT_-_FLINTSHIRE,398
+Central,Connah's Quay,SIR_Y_FFLINT_-_FLINTSHIRE,3864.7968
+Golftyn,Connah's Quay,SIR_Y_FFLINT_-_FLINTSHIRE,4100.5786
+South,Connah's Quay,SIR_Y_FFLINT_-_FLINTSHIRE,3721.6246
+Wepre,Connah's Quay,SIR_Y_FFLINT_-_FLINTSHIRE,1896
+Ffynnongroyw,Llanasa,SIR_Y_FFLINT_-_FLINTSHIRE,1603
+Castle,Flint,SIR_Y_FFLINT_-_FLINTSHIRE,1929.3188
+Coleshill,Flint,SIR_Y_FFLINT_-_FLINTSHIRE,3252
+Oakenholt,Flint,SIR_Y_FFLINT_-_FLINTSHIRE,2713.4402
+Trelawny,Flint,SIR_Y_FFLINT_-_FLINTSHIRE,3281.241
+Greenfield,Holywell,SIR_Y_FFLINT_-_FLINTSHIRE,2203.212
+Gronant,Llanasa,SIR_Y_FFLINT_-_FLINTSHIRE,1272
+Pantymwyn,Gwernaffield with Pantymwyn,SIR_Y_FFLINT_-_FLINTSHIRE,876.3826
+Gwernaffield,Gwernaffield with Pantymwyn,SIR_Y_FFLINT_-_FLINTSHIRE,774.6174
+Gwernymynydd,Gwernymynydd,SIR_Y_FFLINT_-_FLINTSHIRE,941.636
+Nercwys,Nercwys,SIR_Y_FFLINT_-_FLINTSHIRE,475
+Halkyn Mountain,Halkyn,SIR_Y_FFLINT_-_FLINTSHIRE,1478.4973
+East,Mold,SIR_Y_FFLINT_-_FLINTSHIRE,2189.3316
+Higher Kinnerton,Higher Kinnerton,SIR_Y_FFLINT_-_FLINTSHIRE,1399.8856
+Penyffordd,Penyffordd,SIR_Y_FFLINT_-_FLINTSHIRE,3750.1006
+Central,Holywell,SIR_Y_FFLINT_-_FLINTSHIRE,1648.9932
+West,Holywell,SIR_Y_FFLINT_-_FLINTSHIRE,1949.6398
+East,Holywell,SIR_Y_FFLINT_-_FLINTSHIRE,1470.155
+Leeswood,Leeswood and Pontblyddyn,SIR_Y_FFLINT_-_FLINTSHIRE,1516.3254
+Pontblyddyn,Leeswood and Pontblyddyn,SIR_Y_FFLINT_-_FLINTSHIRE,226.6746
+Pontybodkin,Llanfynydd,SIR_Y_FFLINT_-_FLINTSHIRE,289.648
+Cefn-y-bedd,Llanfynydd,SIR_Y_FFLINT_-_FLINTSHIRE,439.6872
+Cymau,Llanfynydd,SIR_Y_FFLINT_-_FLINTSHIRE,412.1768
+Ffrith,Llanfynydd,SIR_Y_FFLINT_-_FLINTSHIRE,434.488
+Mancot,Hawarden,SIR_Y_FFLINT_-_FLINTSHIRE,2741
+Broncoed,Mold,SIR_Y_FFLINT_-_FLINTSHIRE,2199.0396
+South,Mold,SIR_Y_FFLINT_-_FLINTSHIRE,2208.7962
+West,Mold,SIR_Y_FFLINT_-_FLINTSHIRE,1675.6396
+Rhewl-Mostyn,Mostyn,SIR_Y_FFLINT_-_FLINTSHIRE,638.3492
+Mostyn,Mostyn,SIR_Y_FFLINT_-_FLINTSHIRE,917.6508
+Northop,Northop,SIR_Y_FFLINT_-_FLINTSHIRE,1015.1755
+Sychdyn,Northop,SIR_Y_FFLINT_-_FLINTSHIRE,1588.8245
+Northop Hall,Northop Hall,SIR_Y_FFLINT_-_FLINTSHIRE,1471
+Sandycroft,Queensferry,SIR_Y_FFLINT_-_FLINTSHIRE,916.0755
+Pentre,Queensferry,SIR_Y_FFLINT_-_FLINTSHIRE,208.9245
+Queensferry,Queensferry,SIR_Y_FFLINT_-_FLINTSHIRE,522
+Mold Junction,Saltney,SIR_Y_FFLINT_-_FLINTSHIRE,1291.5712
+Stonebridge,Saltney,SIR_Y_FFLINT_-_FLINTSHIRE,2892.4288
+East,Sealand,SIR_Y_FFLINT_-_FLINTSHIRE,1228.689
+West,Sealand,SIR_Y_FFLINT_-_FLINTSHIRE,1365.311
+East,Shotton,SIR_Y_FFLINT_-_FLINTSHIRE,1490.244
+Higher,Shotton,SIR_Y_FFLINT_-_FLINTSHIRE,2010.2992
+West,Shotton,SIR_Y_FFLINT_-_FLINTSHIRE,1803.756
+Axton,Llanasa,SIR_Y_FFLINT_-_FLINTSHIRE,834
+Trelawnyd,Trelawnyd and Gwaenysgor,SIR_Y_FFLINT_-_FLINTSHIRE,357.6475
+Gwaenysgor,Trelawnyd and Gwaenysgor,SIR_Y_FFLINT_-_FLINTSHIRE,318.3525
+Treuddyn,Treuddyn,SIR_Y_FFLINT_-_FLINTSHIRE,1394
+Carmel,Whitford,SIR_Y_FFLINT_-_FLINTSHIRE,1532.343
+Whitford,Whitford,SIR_Y_FFLINT_-_FLINTSHIRE,370.657
+Acton Park,Acton,WRECSAM_-_WREXHAM,1414.1416
+Acton Central,Acton,WRECSAM_-_WREXHAM,1042.2911
+Maesydre,Acton,WRECSAM_-_WREXHAM,1569.7568
+Borras Park,Acton,WRECSAM_-_WREXHAM,1972.4088
+Rhosnesni,Acton,WRECSAM_-_WREXHAM,2786.0917
+Bangor is-y-Coed,Bangor is-y-Coed,WRECSAM_-_WREXHAM,947.74
+Sesswick,Sesswick,WRECSAM_-_WREXHAM,510.97
+Bronington,Bronington,WRECSAM_-_WREXHAM,571.2946
+Tybroughton,Bronington,WRECSAM_-_WREXHAM,118.0107
+Iscoyd,Bronington,WRECSAM_-_WREXHAM,285.7202
+Willington,Willington Worthenbury,WRECSAM_-_WREXHAM,231.5888
+Worthenbury,Willington Worthenbury,WRECSAM_-_WREXHAM,472.4112
+Vron,Brymbo,WRECSAM_-_WREXHAM,933.1436
+Brymbo,Brymbo,WRECSAM_-_WREXHAM,2405.2132
+Brynyffynnon,Offa,WRECSAM_-_WREXHAM,3027.3285
+Offa,Offa,WRECSAM_-_WREXHAM,2153.8237
+Bryn Cefn,Broughton,WRECSAM_-_WREXHAM,2160.6235
+West,Gwersyllt,WRECSAM_-_WREXHAM,2517.3398
+Cartrefle,Caia Park,WRECSAM_-_WREXHAM,1675.9524
+Queensway,Caia Park,WRECSAM_-_WREXHAM,1784.7498
+Wynnstay,Caia Park,WRECSAM_-_WREXHAM,1900.2894
+Acrefair and Penybryn,Cefn,WRECSAM_-_WREXHAM,2008.4009
+Cefn,Cefn,WRECSAM_-_WREXHAM,1275.0485
+Rhosymedre and Cefn Bychan,Cefn,WRECSAM_-_WREXHAM,494.7817
+Plas Madoc,Cefn,WRECSAM_-_WREXHAM,1629.7923
+South,Ruabon,WRECSAM_-_WREXHAM,1180.4502
+Llanarmon,Ceiriog Ucha,WRECSAM_-_WREXHAM,192.6082
+Llangadwaladr,Ceiriog Ucha,WRECSAM_-_WREXHAM,61.3918
+Glyntraian,Glyntraian,WRECSAM_-_WREXHAM,701
+Llansantffraid Glyn Ceiriog,Llansantffraid Glyn Ceiriog,WRECSAM_-_WREXHAM,818
+North,Chirk,WRECSAM_-_WREXHAM,1964
+South,Chirk,WRECSAM_-_WREXHAM,1621
+North,Coedpoeth,WRECSAM_-_WREXHAM,2540.0635
+South,Coedpoeth,WRECSAM_-_WREXHAM,1088.9733
+Erddig,Offa,WRECSAM_-_WREXHAM,2033.6568
+Hermitage,Offa,WRECSAM_-_WREXHAM,2054.9992
+Sontley,Marchwiel,WRECSAM_-_WREXHAM,254.4685
+Rhostyllen,Esclusham,WRECSAM_-_WREXHAM,2110.0137
+Bersham,Esclusham,WRECSAM_-_WREXHAM,129.4439
+Garden Village,Rhosddu,WRECSAM_-_WREXHAM,1696.4576
+Gresford West,Gresford,WRECSAM_-_WREXHAM,1414.7152
+Gresford East,Gresford,WRECSAM_-_WREXHAM,976.7676
+Bryn,Llay,WRECSAM_-_WREXHAM,1271.4814
+South,Gwersyllt,WRECSAM_-_WREXHAM,2056.4499
+Grosvenor,Rhosddu,WRECSAM_-_WREXHAM,2241.944
+Gwenfro,Broughton,WRECSAM_-_WREXHAM,1933.038
+East,Gwersyllt,WRECSAM_-_WREXHAM,1870.8553
+North,Gwersyllt,WRECSAM_-_WREXHAM,2203.6455
+Abenbury,Abenbury,WRECSAM_-_WREXHAM,2233.3948
+Holt,Holt,WRECSAM_-_WREXHAM,1199.3972
+Bieston,Holt,WRECSAM_-_WREXHAM,354.4693
+Isycoed,Isycoed,WRECSAM_-_WREXHAM,345
+Johnstown,Rhosllanerchrugog,WRECSAM_-_WREXHAM,2612.7903
+North,Ruabon,WRECSAM_-_WREXHAM,2368.5671
+Little Acton,Acton,WRECSAM_-_WREXHAM,1870.6117
+Llangollen Rural,Llangollen Rural,WRECSAM_-_WREXHAM,1693
+Park,Llay,WRECSAM_-_WREXHAM,2603.9592
+Erbistock,Erbistock,WRECSAM_-_WREXHAM,320
+Deiniol,Marchwiel,WRECSAM_-_WREXHAM,395.5858
+Piercy,Marchwiel,WRECSAM_-_WREXHAM,397.8871
+Marford and Hoseley,Gresford,WRECSAM_-_WREXHAM,1839
+Bwlchgwyn,Brymbo,WRECSAM_-_WREXHAM,673
+Minera,Minera,WRECSAM_-_WREXHAM,1276.9632
+New Broughton,Broughton,WRECSAM_-_WREXHAM,1354.1624
+Brynteg,Broughton,WRECSAM_-_WREXHAM,593.6054
+Halghton,Hanmer,WRECSAM_-_WREXHAM,243.3051
+Hanmer,Hanmer,WRECSAM_-_WREXHAM,282.6949
+Penley,Maelor South,WRECSAM_-_WREXHAM,867.1717
+Bettisfield,Maelor South,WRECSAM_-_WREXHAM,283.8283
+Overton,Overton,WRECSAM_-_WREXHAM,1073
+Pant,Rhosllanerchrugog,WRECSAM_-_WREXHAM,1803.6375
+Eitha,Penycae,WRECSAM_-_WREXHAM,1684.9368
+Groes,Penycae,WRECSAM_-_WREXHAM,979.0632
+Aberoer,Esclusham,WRECSAM_-_WREXHAM,263.9889
+Pentrebychan,Esclusham,WRECSAM_-_WREXHAM,411.0111
+Rhos,Rhosllanerchrugog,WRECSAM_-_WREXHAM,1617.4784
+Ponciau South,Rhosllanerchrugog,WRECSAM_-_WREXHAM,642.7061
+Ponciau North,Rhosllanerchrugog,WRECSAM_-_WREXHAM,944.3752
+Allington,Rossett,WRECSAM_-_WREXHAM,1876.6948
+Burton,Rossett,WRECSAM_-_WREXHAM,862.3052
+Smithfield,Caia Park,WRECSAM_-_WREXHAM,2152.3004
+Stansty,Rhosddu,WRECSAM_-_WREXHAM,1797.5984
+Whitegate,Caia Park,WRECSAM_-_WREXHAM,2054.2067
+Aber-Craf,Ystradgynlais,POWYS_-_POWYS,1181.508
+Caehopkin,Tawe-Uchaf,POWYS_-_POWYS,130.7075
+Banwy,Banwy,POWYS_-_POWYS,561
+Llanerfyl,Llanerfyl,POWYS_-_POWYS,365
+Knucklas,Beguildy,POWYS_-_POWYS,316.69
+Beguildy,Beguildy,POWYS_-_POWYS,287.31
+Llanbadarn Fynydd,Llanbadarn Fynydd,POWYS_-_POWYS,237.9728
+Llanbister,Llanbister,POWYS_-_POWYS,315
+Berriew,Berriew,POWYS_-_POWYS,1146
+Llangurig,Llangurig,POWYS_-_POWYS,649
+Llanidloes Without,Llanidloes Without,POWYS_-_POWYS,530
+Llanwrglyn,Trefeglwys,POWYS_-_POWYS,343.752
+Trefeglwys,Trefeglwys,POWYS_-_POWYS,460.248
+Pontywal,Bronllys,POWYS_-_POWYS,524.099
+Wye,Bronllys,POWYS_-_POWYS,261.901
+Erwood,Erwood,POWYS_-_POWYS,354
+Builth,Builth,POWYS_-_POWYS,2064.149
+Duhonw,Duhonw,POWYS_-_POWYS,274.3742
+Tretower,Cwmdu and District,POWYS_-_POWYS,175.1841
+Bwlch,Cwmdu and District,POWYS_-_POWYS,355.473
+Cwmdu,Cwmdu and District,POWYS_-_POWYS,143.8535
+Caersws,Caersws,POWYS_-_POWYS,735.6928
+Llanwnog,Caersws,POWYS_-_POWYS,584.3072
+Carno,Carno,POWYS_-_POWYS,613
+Churchstoke,Churchstoke,POWYS_-_POWYS,1138.2366
+Hyssington,Churchstoke,POWYS_-_POWYS,305.6604
+Montgomery,Montgomery,POWYS_-_POWYS,1160.2734
+Sarn,Kerry,POWYS_-_POWYS,388.6691
+Crickhowell,Crickhowell,POWYS_-_POWYS,1853.3386
+Llangenny and Glangrwyney,The Vale of Grwyney,POWYS_-_POWYS,458.472
+Cwm-Twrch,Ystradgynlais,POWYS_-_POWYS,1792
+Disserth and Trecoed,Disserth and Trecoed,POWYS_-_POWYS,1086
+Bettws,Betws Cedewain,POWYS_-_POWYS,400
+Abermule,Abermule with Llandyssil,POWYS_-_POWYS,851.5724
+Llandyssil,Abermule with Llandyssil,POWYS_-_POWYS,502.4986
+Llandefalle,Felin-Fach,POWYS_-_POWYS,339.7278
+Llanfilo,Felin-Fach,POWYS_-_POWYS,130.7553
+Tallachddu,Felin-Fach,POWYS_-_POWYS,84.5463
+Honddu Isaf,Honddu Isaf,POWYS_-_POWYS,372
+Llanddew,Llanddew,POWYS_-_POWYS,194
+Forden,Forden with Leighton and Trelystan,POWYS_-_POWYS,934.2438
+Trelystan,Forden with Leighton and Trelystan,POWYS_-_POWYS,375.0842
+Penegroes,Cadfarch,POWYS_-_POWYS,445.3577
+Uwchygarreg,Cadfarch,POWYS_-_POWYS,229.1675
+Isygarreg,Cadfarch,POWYS_-_POWYS,58.4748
+Dulas,Glantwymyn,POWYS_-_POWYS,127.612
+Llanwrin,Glantwymyn,POWYS_-_POWYS,408.2677
+Cemmaes,Glantwymyn,POWYS_-_POWYS,156.1843
+Darowen,Glantwymyn,POWYS_-_POWYS,321.9602
+Clyro,Clyro,POWYS_-_POWYS,659.2431
+Glasbury,Glasbury,POWYS_-_POWYS,465.7386
+Boughrood,Glasbury,POWYS_-_POWYS,392.2614
+Painscastle,Painscastle,POWYS_-_POWYS,432
+Castle Caereinion,Castle Caereinion,POWYS_-_POWYS,508.885
+Guilsfield Village,Guilsfield,POWYS_-_POWYS,661.9759
+Guilsfield Rural,Guilsfield,POWYS_-_POWYS,750.0241
+Gwernyfed,Gwernyfed,POWYS_-_POWYS,837
+Llanigon,Llanigon,POWYS_-_POWYS,438
+Hay,Hay,POWYS_-_POWYS,1446.7569
+Kerry,Kerry,POWYS_-_POWYS,1122.8751
+Dolfor,Kerry,POWYS_-_POWYS,180.2592
+Knighton West,Knighton,POWYS_-_POWYS,668.3927
+Knighton Central,Knighton,POWYS_-_POWYS,509.702
+Knighton South East,Knighton,POWYS_-_POWYS,463.1186
+Knighton Outer,Knighton,POWYS_-_POWYS,842.1815
+Whitton,Whitton,POWYS_-_POWYS,309.584
+Cilmery,Cilmery,POWYS_-_POWYS,402.4768
+Llanafanfawr,Llanafanfawr,POWYS_-_POWYS,231.3852
+Llanfihangel Brynpabuan and Llysdin,Llanafanfawr,POWYS_-_POWYS,134.6148
+Llanwrthwl,Llanwrthwl,POWYS_-_POWYS,154
+Llanbadarn Fawr,Llanbadarn Fawr,POWYS_-_POWYS,603
+Penybont and Cefnllys,Penybont,POWYS_-_POWYS,208.9206
+Llandegley,Penybont,POWYS_-_POWYS,169.0794
+Llanbrynmair,Llanbrynmair,POWYS_-_POWYS,798
+Llandinam,Llandinam,POWYS_-_POWYS,585.1017
+Llidiartywaen,Llandinam,POWYS_-_POWYS,182.8983
+Mochdre,Mochdre with Penstrowed,POWYS_-_POWYS,417
+Llandrindod Wells East,Llandrindod Wells,POWYS_-_POWYS,563.2953
+Llandrindod Wells South No. 1,Llandrindod Wells,POWYS_-_POWYS,413.436
+Llandrindod Wells West,Llandrindod Wells,POWYS_-_POWYS,535.3775
+Llandrindod Wells North,Llandrindod Wells,POWYS_-_POWYS,1729.8088
+Llandrindod Wells South No. 2,Llandrindod Wells,POWYS_-_POWYS,1499.1057
+Bausley with Criggion,Bausley with Criggion,POWYS_-_POWYS,587
+Arddleen,Llandrinio,POWYS_-_POWYS,828.0735
+Llandrinio,Llandrinio,POWYS_-_POWYS,409.9265
+Carreghofa,Carreghofa,POWYS_-_POWYS,589
+Llandysilio,Llandysilio,POWYS_-_POWYS,982
+Aberedw,Aberedw,POWYS_-_POWYS,216
+Glascwm,Glascwm,POWYS_-_POWYS,463
+Llanelwedd,Llanelwedd,POWYS_-_POWYS,343
+Llanfair Caereinion,Llanfair Caereinion,POWYS_-_POWYS,1422.115
+Llanfihangel,Llanfihangel,POWYS_-_POWYS,410
+Llangyniew,Llangyniew,POWYS_-_POWYS,506
+Llanfyllin,Llanfyllin,POWYS_-_POWYS,1328
+Llangattock,Llangattock,POWYS_-_POWYS,809
+Llanfihangel Talyllyn,Llangors,POWYS_-_POWYS,546.3856
+Llangors,Llangors,POWYS_-_POWYS,399.6144
+Llanddewi Ystradenny,Llanddewi Ystradenny,POWYS_-_POWYS,246
+Llanfihangel Rhydithon,Llanfihangel Rhydithon,POWYS_-_POWYS,177
+Llangunllo,Llangunllo,POWYS_-_POWYS,308
+Llangynidr,Llangynidr,POWYS_-_POWYS,876
+Clywedog,Llanidloes,POWYS_-_POWYS,647.314
+Dulas,Llanidloes,POWYS_-_POWYS,728.3251
+Hafren,Llanidloes,POWYS_-_POWYS,952.3609
+Llangynog,Llangynog,POWYS_-_POWYS,268
+Llanrhaeadr-ym-Mochnant,Llanrhaeadr-ym-Mochnant,POWYS_-_POWYS,1033
+Llanwddyn,Llanwddyn,POWYS_-_POWYS,214
+Pen-y-bont-Fawr,Pen-y-bont-Fawr,POWYS_-_POWYS,404
+Llangedwyn,Llangedwyn,POWYS_-_POWYS,340
+Llansilin,Llansilin,POWYS_-_POWYS,560
+Llanfechain,Llanfechain,POWYS_-_POWYS,424
+Pool,Llansantffraid,POWYS_-_POWYS,838.1579
+Deytheur,Llansantffraid,POWYS_-_POWYS,411.8421
+Llangamarch,Llangamarch,POWYS_-_POWYS,446
+Llanwrtyd Wells,Llanwrtyd Wells,POWYS_-_POWYS,697
+Beulah,Treflys,POWYS_-_POWYS,239.7085
+Garth,Treflys,POWYS_-_POWYS,155.2915
+Newbridge,Llanyre,POWYS_-_POWYS,575.6354
+Llanfihangel Helygen and Llanyre,Llanyre,POWYS_-_POWYS,430.3646
+Machynlleth,Machynlleth,POWYS_-_POWYS,1804
+Cray,Cray,POWYS_-_POWYS,193
+Traianmawr,Llywel,POWYS_-_POWYS,374.925
+Traianglas,Llywel,POWYS_-_POWYS,98.075
+Pontsenni,Maescar,POWYS_-_POWYS,397.7803
+Ysclydach,Maescar,POWYS_-_POWYS,226.7133
+Senni,Maescar,POWYS_-_POWYS,189.5064
+Meifod,Meifod,POWYS_-_POWYS,1144
+Abbey Cwmhir,Abbey Cwmhir,POWYS_-_POWYS,217.0272
+Nantmel,Nantmel,POWYS_-_POWYS,582
+St. Harmon,St. Harmon,POWYS_-_POWYS,504
+Newtown Central,Newtown and Llanllwchaiarn,POWYS_-_POWYS,2544.8006
+Newtown South,Newtown and Llanllwchaiarn,POWYS_-_POWYS,1409.7854
+Llanllwchaiarn West,Newtown and Llanllwchaiarn,POWYS_-_POWYS,1603.0678
+Newtown East,Newtown and Llanllwchaiarn,POWYS_-_POWYS,1717.0429
+Llanllwchaiarn North,Newtown and Llanllwchaiarn,POWYS_-_POWYS,1883.2323
+Gladestry,Gladestry,POWYS_-_POWYS,368
+New Radnor,New Radnor,POWYS_-_POWYS,376
+Kinnerton/Evenjobb,Old Radnor,POWYS_-_POWYS,335.9983
+Old Radnor/Walton,Old Radnor,POWYS_-_POWYS,375.0017
+Presteigne Town,Presteigne,POWYS_-_POWYS,1772.5196
+Norton,Presteigne,POWYS_-_POWYS,530.4804
+Llansantffraed-Cwmdeuddwr,Rhayader,POWYS_-_POWYS,474.2118
+Rhayader Town,Rhayader,POWYS_-_POWYS,1290.7882
+Aberhafesp,Aberhafesp,POWYS_-_POWYS,379
+Llanllugan,Dwyriw,POWYS_-_POWYS,310.4376
+Llanwyddelan,Dwyriw,POWYS_-_POWYS,173.5624
+Manafon,Manafon,POWYS_-_POWYS,276
+Tregynon,Tregynon,POWYS_-_POWYS,698
+St. David Within,Brecon,POWYS_-_POWYS,1456
+St. John East,Brecon,POWYS_-_POWYS,1000.1422
+St. John West,Brecon,POWYS_-_POWYS,1603.4039
+St. Mary,Brecon,POWYS_-_POWYS,2831.4539
+Talgarth,Talgarth,POWYS_-_POWYS,1423
+Glyn Tarell,Glyn-Tarell,POWYS_-_POWYS,524.5392
+Cantref,Llanfrynach,POWYS_-_POWYS,241.3728
+Llanhamlach,Llanfrynach,POWYS_-_POWYS,196.682
+Llanfrynach,Llanfrynach,POWYS_-_POWYS,49.406
+Talybont-on-Usk,Talybont-on-Usk,POWYS_-_POWYS,589
+Coelbren,Tawe-Uchaf,POWYS_-_POWYS,554.5692
+Penycae,Tawe-Uchaf,POWYS_-_POWYS,613.9606
+Ystradfellte,Ystradfellte,POWYS_-_POWYS,163.4208
+Pontneddfechan,Ystradfellte,POWYS_-_POWYS,335.8034
+Buttington,Trewern,POWYS_-_POWYS,818.6686
+Middletown,Trewern,POWYS_-_POWYS,339.3314
+Castle,Welshpool,POWYS_-_POWYS,1832.3062
+Gungrog,Welshpool,POWYS_-_POWYS,2072.2218
+Llanerchyddol,Welshpool,POWYS_-_POWYS,1624.144
+Ynyscedwyn,Ystradgynlais,POWYS_-_POWYS,1744.2882
+Ystradgynlais,Ystradgynlais,POWYS_-_POWYS,2160.9668
+Merthyr Cynog,Merthyr Cynog,POWYS_-_POWYS,211
+Llanfihangel Nant Bran,Trallong,POWYS_-_POWYS,180.9808
+Penpont and Trallong,Trallong,POWYS_-_POWYS,127.0192
+Yscir,Yscir,POWYS_-_POWYS,390
+Aberaeron,Aberaeron,SIR_CEREDIGION_-_CEREDIGION,1114
+Aberporth,Aberporth,SIR_CEREDIGION_-_CEREDIGION,1844
+Mwldan,Cardigan,SIR_CEREDIGION_-_CEREDIGION,1572.946
+Rhyd-y-Fuwch,Cardigan,SIR_CEREDIGION_-_CEREDIGION,987.4748
+Teifi,Cardigan,SIR_CEREDIGION_-_CEREDIGION,923.5792
+Bronglais,Aberystwyth,SIR_CEREDIGION_-_CEREDIGION,1220.9413
+Canol/Central,Aberystwyth,SIR_CEREDIGION_-_CEREDIGION,1986.0818
+Gogledd/North,Aberystwyth,SIR_CEREDIGION_-_CEREDIGION,1951.7859
+Penparcau,Aberystwyth,SIR_CEREDIGION_-_CEREDIGION,2303.7696
+Rheidol,Aberystwyth,SIR_CEREDIGION_-_CEREDIGION,2002.2304
+Beulah,Beulah,SIR_CEREDIGION_-_CEREDIGION,462.8197
+Bettws Evan,Beulah,SIR_CEREDIGION_-_CEREDIGION,311.2594
+Brongwyn,Beulah,SIR_CEREDIGION_-_CEREDIGION,166.6221
+Llandygwydd,Beulah,SIR_CEREDIGION_-_CEREDIGION,553.3219
+Borth,Borth,SIR_CEREDIGION_-_CEREDIGION,1081
+Geneu'r Glyn,Geneu'r Glyn,SIR_CEREDIGION_-_CEREDIGION,589
+Tregroes,Llandysul,SIR_CEREDIGION_-_CEREDIGION,314.4821
+Capel Dewi,Llandysul,SIR_CEREDIGION_-_CEREDIGION,431.9966
+Pontshaen,Llandysul,SIR_CEREDIGION_-_CEREDIGION,338.5213
+Ceulanamaesmawr,Ceulanamaesmawr,SIR_CEREDIGION_-_CEREDIGION,820
+Llangynfelyn,Llangynfelyn,SIR_CEREDIGION_-_CEREDIGION,494
+Ysgubor-y-Coed,Ysgubor-y-Coed,SIR_CEREDIGION_-_CEREDIGION,256
+Ciliau Aeron,Ciliau Aeron,SIR_CEREDIGION_-_CEREDIGION,359.9512
+Cilcennin,Ciliau Aeron,SIR_CEREDIGION_-_CEREDIGION,377.0488
+Henfynyw,Henfynyw,SIR_CEREDIGION_-_CEREDIGION,918
+Waunfawr,Faenor,SIR_CEREDIGION_-_CEREDIGION,2269.0978
+Faenor,Faenor,SIR_CEREDIGION_-_CEREDIGION,921.9022
+Lampeter,Lampeter,SIR_CEREDIGION_-_CEREDIGION,2051
+Llanarth,Llanarth,SIR_CEREDIGION_-_CEREDIGION,917.0276
+Mydroilyn,Llanarth,SIR_CEREDIGION_-_CEREDIGION,369.9724
+Padarn,Llanbadarn Fawr,SIR_CEREDIGION_-_CEREDIGION,823.4504
+Llanbadarn y Creuddyn,Llanfarian,SIR_CEREDIGION_-_CEREDIGION,660.8654
+Sulien,Llanbadarn Fawr,SIR_CEREDIGION_-_CEREDIGION,1337.191
+Llandyfriog,Llandyfriog,SIR_CEREDIGION_-_CEREDIGION,822.5256
+Orllwyn Teifi,Llandyfriog,SIR_CEREDIGION_-_CEREDIGION,700.4744
+Llandysiliogogo,Llandysiliogogo,SIR_CEREDIGION_-_CEREDIGION,884
+Llanllwchaiarn,Llanllwchaiarn,SIR_CEREDIGION_-_CEREDIGION,763
+Trefol,Llandysul,SIR_CEREDIGION_-_CEREDIGION,1131.3135
+North,Llanfihangel-ar-Arth,SIR_GAERFYRDDIN_-_CARMARTHENSHIRE,635.7299
+Llanychaiarn,Llanfarian,SIR_CEREDIGION_-_CEREDIGION,602.6842
+Llanfihangel Ystrad,Llanfihangel Ystrad,SIR_CEREDIGION_-_CEREDIGION,892.7239
+Dihewid,Llanfihangel Ystrad,SIR_CEREDIGION_-_CEREDIGION,315.2761
+Nantcwnlle,Nantcwnlle,SIR_CEREDIGION_-_CEREDIGION,340.641
+Trefilan,Nantcwnlle,SIR_CEREDIGION_-_CEREDIGION,190.359
+Llanddewi Brefi,Llanddewi Brefi,SIR_CEREDIGION_-_CEREDIGION,506
+Llanbadarn Odwyn,Llangeitho,SIR_CEREDIGION_-_CEREDIGION,233.7709
+Gwynfil,Llangeitho,SIR_CEREDIGION_-_CEREDIGION,187.0364
+Penuwch,Llangeitho,SIR_CEREDIGION_-_CEREDIGION,248.2377
+Llanfair Clydogau,Llanfair Clydogau,SIR_CEREDIGION_-_CEREDIGION,275.1895
+Cellan,Llanfair Clydogau,SIR_CEREDIGION_-_CEREDIGION,242.8105
+Llangybi,Llangybi,SIR_CEREDIGION_-_CEREDIGION,360.5364
+Silian,Llangybi,SIR_CEREDIGION_-_CEREDIGION,144.4636
+Gartheli,Nantcwnlle,SIR_CEREDIGION_-_CEREDIGION,164
+Llangwyryfon,Llangwyryfon,SIR_CEREDIGION_-_CEREDIGION,476
+Mefenydd,Llanrhystyd,SIR_CEREDIGION_-_CEREDIGION,196.5788
+Deiniol,Llanrhystyd,SIR_CEREDIGION_-_CEREDIGION,89.544
+Haminiog,Llanrhystyd,SIR_CEREDIGION_-_CEREDIGION,532.8772
+Llanbadarn Trefeglwys,Dyffryn Arth,SIR_CEREDIGION_-_CEREDIGION,608.1979
+Llanddewi Aberarth,Dyffryn Arth,SIR_CEREDIGION_-_CEREDIGION,394.8021
+Llansantffraed,Llansantffraed,SIR_CEREDIGION_-_CEREDIGION,1038
+Llanwenog,Llanwenog,SIR_CEREDIGION_-_CEREDIGION,1082.0108
+Llanwnnen,Llanwnnen,SIR_CEREDIGION_-_CEREDIGION,398
+Lledrod Isaf,Lledrod,SIR_CEREDIGION_-_CEREDIGION,363.5513
+Blaenpennal,Lledrod,SIR_CEREDIGION_-_CEREDIGION,224.4487
+Ysbyty Ystwyth,Ysbyty Ystwyth,SIR_CEREDIGION_-_CEREDIGION,380
+Caron-Uwch-Clawdd,Ystrad Fflur,SIR_CEREDIGION_-_CEREDIGION,417.6254
+Gwnnws Uchaf,Ystrad Fflur,SIR_CEREDIGION_-_CEREDIGION,186.3746
+Lledrod Uchaf,Ystrad Meurig,SIR_CEREDIGION_-_CEREDIGION,171.2575
+Gwnnws Isaf,Ystrad Meurig,SIR_CEREDIGION_-_CEREDIGION,133.7425
+Blaenrheidol,Blaenrheidol,SIR_CEREDIGION_-_CEREDIGION,385
+Penllwyn,Melindwr,SIR_CEREDIGION_-_CEREDIGION,401.4334
+Llanbadarn y Creuddyn Uchaf,Melindwr,SIR_CEREDIGION_-_CEREDIGION,264.5487
+Goginan,Melindwr,SIR_CEREDIGION_-_CEREDIGION,247.0451
+Pontarfynach,Pontarfynach,SIR_CEREDIGION_-_CEREDIGION,367
+New Quay,New Quay,SIR_CEREDIGION_-_CEREDIGION,790
+Llangrannog,Llangrannog,SIR_CEREDIGION_-_CEREDIGION,622
+Penbryn,Penbryn,SIR_CEREDIGION_-_CEREDIGION,1132
+Llangoedmor,Llangoedmor,SIR_CEREDIGION_-_CEREDIGION,979
+Y Ferwig,Y Ferwig,SIR_CEREDIGION_-_CEREDIGION,979
+Llangorwen,Tirymynach,SIR_CEREDIGION_-_CEREDIGION,651.6272
+Tirymynach,Tirymynach,SIR_CEREDIGION_-_CEREDIGION,818.3728
+Trefeurig,Trefeurig,SIR_CEREDIGION_-_CEREDIGION,1463
+Tregaron,Tregaron,SIR_CEREDIGION_-_CEREDIGION,987
+Troedyraur,Troedyraur,SIR_CEREDIGION_-_CEREDIGION,797.042
+Llangynllo,Troedyraur,SIR_CEREDIGION_-_CEREDIGION,369.958
+Llanilar,Llanilar,SIR_CEREDIGION_-_CEREDIGION,903
+Llanfihangel y Creuddyn,Trawsgoed,SIR_CEREDIGION_-_CEREDIGION,524.4145
+Llanafan,Trawsgoed,SIR_CEREDIGION_-_CEREDIGION,270.5855
+Crunwere,Amroth,SIR_BENFRO_-_PEMBROKESHIRE,240.4882
+Amroth,Amroth,SIR_BENFRO_-_PEMBROKESHIRE,811.5118
+Burton,Burton,SIR_BENFRO_-_PEMBROKESHIRE,1061.8969
+Camrose,Camrose,SIR_BENFRO_-_PEMBROKESHIRE,1597
+Roch,Nolton and Roch,SIR_BENFRO_-_PEMBROKESHIRE,622.4268
+Nolton,Nolton and Roch,SIR_BENFRO_-_PEMBROKESHIRE,94.5732
+Carew,Carew,SIR_BENFRO_-_PEMBROKESHIRE,1234
+Cilgerran,Cilgerran,SIR_BENFRO_-_PEMBROKESHIRE,1287.096
+Eglwyswrw,Eglwyswrw,SIR_BENFRO_-_PEMBROKESHIRE,647.3672
+Manordeifi,Manordeifi,SIR_BENFRO_-_PEMBROKESHIRE,449
+Boncath,Boncath,SIR_BENFRO_-_PEMBROKESHIRE,621
+Clydau,Clydau,SIR_BENFRO_-_PEMBROKESHIRE,608
+Crymych,Crymych,SIR_BENFRO_-_PEMBROKESHIRE,1541
+Henry's Moat,Puncheston,SIR_BENFRO_-_PEMBROKESHIRE,142.1512
+Cwm Gwaun,Cwm Gwaun,SIR_BENFRO_-_PEMBROKESHIRE,244
+Dinas Cross,Dinas Cross,SIR_BENFRO_-_PEMBROKESHIRE,681
+Puncheston,Puncheston,SIR_BENFRO_-_PEMBROKESHIRE,332.3856
+Pentlepoir,East Williamston,SIR_BENFRO_-_PEMBROKESHIRE,1210.3376
+East Williamston,East Williamston,SIR_BENFRO_-_PEMBROKESHIRE,399.8274
+Jeffreyston,Jeffreyston,SIR_BENFRO_-_PEMBROKESHIRE,460
+Fishguard North East,Fishguard and Goodwick,SIR_BENFRO_-_PEMBROKESHIRE,1548.5317
+Fishguard North West,Fishguard and Goodwick,SIR_BENFRO_-_PEMBROKESHIRE,1336.4683
+Goodwick,Fishguard and Goodwick,SIR_BENFRO_-_PEMBROKESHIRE,1681
+Castle,Haverfordwest,SIR_BENFRO_-_PEMBROKESHIRE,1921.0517
+Prendergast,Haverfordwest,SIR_BENFRO_-_PEMBROKESHIRE,1771.2837
+Garth,Haverfordwest,SIR_BENFRO_-_PEMBROKESHIRE,1873.3002
+Portfield,Haverfordwest,SIR_BENFRO_-_PEMBROKESHIRE,1971.5158
+Priory,Haverfordwest,SIR_BENFRO_-_PEMBROKESHIRE,2092.7729
+Merlin's Bridge,Merlin's Bridge,SIR_BENFRO_-_PEMBROKESHIRE,1780.3442
+Angle,Angle,SIR_BENFRO_-_PEMBROKESHIRE,449.7456
+Castlemartin,Stackpole and Castlemartin,SIR_BENFRO_-_PEMBROKESHIRE,287.7083
+Hundleton,Hundleton,SIR_BENFRO_-_PEMBROKESHIRE,547.2544
+Stackpole,Stackpole and Castlemartin,SIR_BENFRO_-_PEMBROKESHIRE,197.2917
+Johnston,Johnston,SIR_BENFRO_-_PEMBROKESHIRE,1763
+Thornton,Tiers Cross,SIR_BENFRO_-_PEMBROKESHIRE,228.4488
+Tiers Cross,Tiers Cross,SIR_BENFRO_-_PEMBROKESHIRE,249.5512
+Kilgetty,Kilgetty/Begelly,SIR_BENFRO_-_PEMBROKESHIRE,1249.4384
+Begelly,Kilgetty/Begelly,SIR_BENFRO_-_PEMBROKESHIRE,699.3966
+Lampeter Velfrey,Lampeter Velfrey,SIR_BENFRO_-_PEMBROKESHIRE,706.8584
+Ludchurch,Lampeter Velfrey,SIR_BENFRO_-_PEMBROKESHIRE,300.1416
+Llanddewi Velfrey,Llanddewi Velfrey,SIR_BENFRO_-_PEMBROKESHIRE,323
+Cosheston,Cosheston,SIR_BENFRO_-_PEMBROKESHIRE,716
+Lamphey,Lamphey,SIR_BENFRO_-_PEMBROKESHIRE,791
+Hayscastle,Hayscastle,SIR_BENFRO_-_PEMBROKESHIRE,389
+Letterston,Letterston,SIR_BENFRO_-_PEMBROKESHIRE,1041
+Treffgarne,Wolfscastle,SIR_BENFRO_-_PEMBROKESHIRE,140.5746
+Wolfscastle,Wolfscastle,SIR_BENFRO_-_PEMBROKESHIRE,395.4254
+Freystrop,Freystrop,SIR_BENFRO_-_PEMBROKESHIRE,544.0215
+Hook,Hook,SIR_BENFRO_-_PEMBROKESHIRE,715.9969
+Llangwm,Llangwm,SIR_BENFRO_-_PEMBROKESHIRE,650.9816
+Llanrhian,Llanrhian,SIR_BENFRO_-_PEMBROKESHIRE,771
+Mathry,Mathry,SIR_BENFRO_-_PEMBROKESHIRE,467
+Llandissilio West,Llandissilio West,SIR_BENFRO_-_PEMBROKESHIRE,397
+Llanycefn,Maenclochog,SIR_BENFRO_-_PEMBROKESHIRE,200.772
+Maenclochog,Maenclochog,SIR_BENFRO_-_PEMBROKESHIRE,424.228
+Mynachlog-Ddu,Mynachlogddu,SIR_BENFRO_-_PEMBROKESHIRE,426
+New Moat,New Moat,SIR_BENFRO_-_PEMBROKESHIRE,357
+Clynderwen,Clunderwen,SIR_BENFRO_-_PEMBROKESHIRE,753
+Jameston and Lydstep,Manorbier,SIR_BENFRO_-_PEMBROKESHIRE,579.0072
+Manorbier,Manorbier,SIR_BENFRO_-_PEMBROKESHIRE,496.9928
+St. Florence,St. Florence,SIR_BENFRO_-_PEMBROKESHIRE,996.4864
+Llawhaden,Llawhaden,SIR_BENFRO_-_PEMBROKESHIRE,563
+Martletwy,Martletwy,SIR_BENFRO_-_PEMBROKESHIRE,297.332
+Lawrenny,Martletwy,SIR_BENFRO_-_PEMBROKESHIRE,198.668
+Slebech,"Uzmaston, Boulston and Slebech",SIR_BENFRO_-_PEMBROKESHIRE,129
+Central,Milford Haven,SIR_BENFRO_-_PEMBROKESHIRE,1729.2081
+West,Milford Haven,SIR_BENFRO_-_PEMBROKESHIRE,1781.6109
+East,Milford Haven,SIR_BENFRO_-_PEMBROKESHIRE,2229.0239
+North,Milford Haven,SIR_BENFRO_-_PEMBROKESHIRE,2008.3898
+Hakin,Milford Haven,SIR_BENFRO_-_PEMBROKESHIRE,2048.9167
+Hubberston,Milford Haven,SIR_BENFRO_-_PEMBROKESHIRE,2073.8506
+Narberth Urban,Narberth,SIR_BENFRO_-_PEMBROKESHIRE,1956
+Narberth Rural,Narberth,SIR_BENFRO_-_PEMBROKESHIRE,557
+Templeton,Templeton,SIR_BENFRO_-_PEMBROKESHIRE,899
+Newport,Newport,SIR_BENFRO_-_PEMBROKESHIRE,906
+Neyland East,Neyland,SIR_BENFRO_-_PEMBROKESHIRE,1827.5506
+Llanstadwell,Llanstadwell,SIR_BENFRO_-_PEMBROKESHIRE,734
+Neyland West,Neyland,SIR_BENFRO_-_PEMBROKESHIRE,929.4494
+Pembroke Dock: Central,Pembroke Dock,SIR_BENFRO_-_PEMBROKESHIRE,1879.174
+Pembroke Dock: Bush,Pembroke Dock,SIR_BENFRO_-_PEMBROKESHIRE,1657.9673
+Pembroke Dock: Market,Pembroke Dock,SIR_BENFRO_-_PEMBROKESHIRE,1506.0837
+Pembroke Dock: Bufferland,Pembroke Dock,SIR_BENFRO_-_PEMBROKESHIRE,1380.1655
+Pembroke Dock: Pennar,Pembroke Dock,SIR_BENFRO_-_PEMBROKESHIRE,1396.6095
+Pembroke: Monkton,Pembroke,SIR_BENFRO_-_PEMBROKESHIRE,1237
+Pembroke: St. Mary North,Pembroke,SIR_BENFRO_-_PEMBROKESHIRE,1957.5053
+Pembroke: St. Mary South,Pembroke,SIR_BENFRO_-_PEMBROKESHIRE,1649.6344
+Pembroke: St. Michael,Pembroke,SIR_BENFRO_-_PEMBROKESHIRE,1637.8603
+Penally,Penally,SIR_BENFRO_-_PEMBROKESHIRE,721
+St. Mary Out Liberty,St. Mary Out Liberty,SIR_BENFRO_-_PEMBROKESHIRE,549.509
+Rudbaxton,Rudbaxton,SIR_BENFRO_-_PEMBROKESHIRE,674.4767
+North Prendergast,Rudbaxton,SIR_BENFRO_-_PEMBROKESHIRE,341.2287
+Uzmaston and Boulston,"Uzmaston, Boulston and Slebech",SIR_BENFRO_-_PEMBROKESHIRE,455
+St. David's and the Cathedral Close,St. David's,SIR_BENFRO_-_PEMBROKESHIRE,1529
+Moylegrove,Nevern,SIR_BENFRO_-_PEMBROKESHIRE,262.8159
+Nevern,Nevern,SIR_BENFRO_-_PEMBROKESHIRE,456.1841
+St. Dogmaels,St. Dogmaels,SIR_BENFRO_-_PEMBROKESHIRE,1036
+Dale,Dale,SIR_BENFRO_-_PEMBROKESHIRE,140.3175
+Marloes and St. Brides,Marloes and St. Brides,SIR_BENFRO_-_PEMBROKESHIRE,281.6825
+Herbrandston,Herbrandston,SIR_BENFRO_-_PEMBROKESHIRE,356
+St. Ishmael's,St. Ishmael's,SIR_BENFRO_-_PEMBROKESHIRE,391
+Saundersfoot South,Saundersfoot,SIR_BENFRO_-_PEMBROKESHIRE,1447.7283
+Saundersfoot North,Saundersfoot,SIR_BENFRO_-_PEMBROKESHIRE,658.3123
+Llanwnda,Pencaer,SIR_BENFRO_-_PEMBROKESHIRE,203.9255
+St Nicholas,Pencaer,SIR_BENFRO_-_PEMBROKESHIRE,161.0745
+Scleddau North,Scleddau,SIR_BENFRO_-_PEMBROKESHIRE,327.1573
+Scleddau South,Scleddau,SIR_BENFRO_-_PEMBROKESHIRE,266.8427
+Trecwn,Scleddau,SIR_BENFRO_-_PEMBROKESHIRE,294
+Brawdy,Brawdy,SIR_BENFRO_-_PEMBROKESHIRE,776
+Solva,Solva,SIR_BENFRO_-_PEMBROKESHIRE,702
+Tenby North,Tenby,SIR_BENFRO_-_PEMBROKESHIRE,1581.7268
+Tenby South,Tenby,SIR_BENFRO_-_PEMBROKESHIRE,1807.2372
+The Havens,The Havens,SIR_BENFRO_-_PEMBROKESHIRE,946
+Walwyn's Castle,Walwyn's Castle,SIR_BENFRO_-_PEMBROKESHIRE,282
+Ambleston,Ambleston,SIR_BENFRO_-_PEMBROKESHIRE,341
+Spittal,Spittal,SIR_BENFRO_-_PEMBROKESHIRE,410
+Walton East,Wiston,SIR_BENFRO_-_PEMBROKESHIRE,269.1318
+Wiston,Wiston,SIR_BENFRO_-_PEMBROKESHIRE,668.8682
+Abergwili,Abergwili,SIR_GAERFYRDDIN_-_CARMARTHENSHIRE,1296
+Llanllawddog,Llanllawddog,SIR_GAERFYRDDIN_-_CARMARTHENSHIRE,659
+Newcastle Emlyn,Ammanford,SIR_GAERFYRDDIN_-_CARMARTHENSHIRE,918.7751
+Iscennen,Ammanford,SIR_GAERFYRDDIN_-_CARMARTHENSHIRE,1306.0996
+Betws,Betws,SIR_GAERFYRDDIN_-_CARMARTHENSHIRE,1947.8718
+Bigyn,Llanelli,SIR_GAERFYRDDIN_-_CARMARTHENSHIRE,5276.8236
+Tyisha,Llanelli,SIR_GAERFYRDDIN_-_CARMARTHENSHIRE,4170.4098
+Lliedi,Llanelli,SIR_GAERFYRDDIN_-_CARMARTHENSHIRE,4319.2795
+Burry Port,Pembrey and Burry Port Town,SIR_GAERFYRDDIN_-_CARMARTHENSHIRE,3459.5928
+Bynea,Llanelli Rural,SIR_GAERFYRDDIN_-_CARMARTHENSHIRE,3800.0603
+North,Carmarthen,SIR_GAERFYRDDIN_-_CARMARTHENSHIRE,4254.4638
+South,Carmarthen,SIR_GAERFYRDDIN_-_CARMARTHENSHIRE,3294.0522
+West,Carmarthen,SIR_GAERFYRDDIN_-_CARMARTHENSHIRE,4303.484
+Cilrhedyn,Cenarth,SIR_GAERFYRDDIN_-_CARMARTHENSHIRE,445.8483
+Cenarth,Cenarth,SIR_GAERFYRDDIN_-_CARMARTHENSHIRE,436.1517
+Newcastle Emlyn,Newcastle Emlyn,SIR_GAERFYRDDIN_-_CARMARTHENSHIRE,949
+South,Cilycwm,SIR_GAERFYRDDIN_-_CARMARTHENSHIRE,128.3112
+North,Cilycwm,SIR_GAERFYRDDIN_-_CARMARTHENSHIRE,248.6888
+Llansadwrn,Llansadwrn,SIR_GAERFYRDDIN_-_CARMARTHENSHIRE,441
+Llanwrda,Llanwrda,SIR_GAERFYRDDIN_-_CARMARTHENSHIRE,403
+Bronwydd,Bronwydd,SIR_GAERFYRDDIN_-_CARMARTHENSHIRE,487
+Cynwyl Elfed,Cynwyl Elfed,SIR_GAERFYRDDIN_-_CARMARTHENSHIRE,853
+Llanpumsaint,Llanpumsaint,SIR_GAERFYRDDIN_-_CARMARTHENSHIRE,624
+Newchurch and Merthyr,Newchurch and Merthyr,SIR_GAERFYRDDIN_-_CARMARTHENSHIRE,586
+Farmers,Cynwyl Gaeo,SIR_GAERFYRDDIN_-_CARMARTHENSHIRE,290.6668
+Cynwyl Gaeo,Cynwyl Gaeo,SIR_GAERFYRDDIN_-_CARMARTHENSHIRE,495.3332
+Llansawel,Llansawel,SIR_GAERFYRDDIN_-_CARMARTHENSHIRE,371
+Llanycrwys,Llanycrwys,SIR_GAERFYRDDIN_-_CARMARTHENSHIRE,198
+Dafen,Llanelli Rural,SIR_GAERFYRDDIN_-_CARMARTHENSHIRE,2725.808
+Elli,Llanelli,SIR_GAERFYRDDIN_-_CARMARTHENSHIRE,1637.355
+Felinfoel,Llanelli Rural,SIR_GAERFYRDDIN_-_CARMARTHENSHIRE,1487.7258
+Twyn,Cwmamman,SIR_GAERFYRDDIN_-_CARMARTHENSHIRE,784.7922
+Pistillwyd,Cwmamman,SIR_GAERFYRDDIN_-_CARMARTHENSHIRE,879.2078
+Tircoed,Cwmamman,SIR_GAERFYRDDIN_-_CARMARTHENSHIRE,1029.5421
+Grenig,Cwmamman,SIR_GAERFYRDDIN_-_CARMARTHENSHIRE,1023.0107
+Heolddu,Llandybie,SIR_GAERFYRDDIN_-_CARMARTHENSHIRE,433.7367
+Glanymor,Llanelli,SIR_GAERFYRDDIN_-_CARMARTHENSHIRE,5093.1321
+Glyn,Llanelli Rural,SIR_GAERFYRDDIN_-_CARMARTHENSHIRE,1782
+Drefach,Gorslas,SIR_GAERFYRDDIN_-_CARMARTHENSHIRE,1104.7318
+Cefneithin,Gorslas,SIR_GAERFYRDDIN_-_CARMARTHENSHIRE,1312.2046
+Gorslas,Gorslas,SIR_GAERFYRDDIN_-_CARMARTHENSHIRE,1735.0038
+Penygroes,Llandybie,SIR_GAERFYRDDIN_-_CARMARTHENSHIRE,2529.532
+Hendy,Llanedi,SIR_GAERFYRDDIN_-_CARMARTHENSHIRE,2611.874
+Llanedi,Llanedi,SIR_GAERFYRDDIN_-_CARMARTHENSHIRE,224.126
+Hengoed,Llanelli Rural,SIR_GAERFYRDDIN_-_CARMARTHENSHIRE,3594
+Mynedd-y-Garreg,Kidwelly,SIR_GAERFYRDDIN_-_CARMARTHENSHIRE,1334.4516
+Castle,Kidwelly,SIR_GAERFYRDDIN_-_CARMARTHENSHIRE,1720.5484
+Ciffig,Eglwyscummin,SIR_GAERFYRDDIN_-_CARMARTHENSHIRE,153.9586
+Eglwyscummin,Eglwyscummin,SIR_GAERFYRDDIN_-_CARMARTHENSHIRE,128.4014
+Marros,Eglwyscummin,SIR_GAERFYRDDIN_-_CARMARTHENSHIRE,79.64
+Laugharne Township,Laugharne Township,SIR_GAERFYRDDIN_-_CARMARTHENSHIRE,939
+North,Llanddowror,SIR_GAERFYRDDIN_-_CARMARTHENSHIRE,338.7947
+South,Llanddowror,SIR_GAERFYRDDIN_-_CARMARTHENSHIRE,330.2053
+Pendine,Pendine,SIR_GAERFYRDDIN_-_CARMARTHENSHIRE,237
+South,Cilymaenllwyd,SIR_GAERFYRDDIN_-_CARMARTHENSHIRE,247.4365
+North,Cilymaenllwyd,SIR_GAERFYRDDIN_-_CARMARTHENSHIRE,414.5635
+Llanboidy,Llanboidy,SIR_GAERFYRDDIN_-_CARMARTHENSHIRE,675.6048
+Pontyfenni,Llanboidy,SIR_GAERFYRDDIN_-_CARMARTHENSHIRE,189.3952
+Llangynin,Llangynin,SIR_GAERFYRDDIN_-_CARMARTHENSHIRE,234
+Llanarthney,Llanarthney,SIR_GAERFYRDDIN_-_CARMARTHENSHIRE,694.4448
+Llanddarog,Llanddarog,SIR_GAERFYRDDIN_-_CARMARTHENSHIRE,1072
+Ffairfach,Cyngor Bro Dyffryn Cennen,SIR_GAERFYRDDIN_-_CARMARTHENSHIRE,678.1975
+Trapp,Cyngor Bro Dyffryn Cennen,SIR_GAERFYRDDIN_-_CARMARTHENSHIRE,327.0119
+Castle,Llandeilo,SIR_GAERFYRDDIN_-_CARMARTHENSHIRE,749.3388
+Tywi,Llandeilo,SIR_GAERFYRDDIN_-_CARMARTHENSHIRE,746.1772
+Cwmifor,Manordeilo and Salem,SIR_GAERFYRDDIN_-_CARMARTHENSHIRE,740.8318
+West,Llandovery,SIR_GAERFYRDDIN_-_CARMARTHENSHIRE,639.2055
+North,Llandovery,SIR_GAERFYRDDIN_-_CARMARTHENSHIRE,553.4216
+South,Llandovery,SIR_GAERFYRDDIN_-_CARMARTHENSHIRE,486.3887
+Pentre-ty-gwyn,Llanfair-ar-y-Bryn,SIR_GAERFYRDDIN_-_CARMARTHENSHIRE,127.9446
+Cynghordy,Llanfair-ar-y-Bryn,SIR_GAERFYRDDIN_-_CARMARTHENSHIRE,171.8856
+Rhandirmwyn,Llanfair-ar-y-Bryn,SIR_GAERFYRDDIN_-_CARMARTHENSHIRE,240.1698
+Llandybie,Llandybie,SIR_GAERFYRDDIN_-_CARMARTHENSHIRE,3142.6857
+Cathynog,Llanegwad,SIR_GAERFYRDDIN_-_CARMARTHENSHIRE,521.3034
+Elvet,Llanegwad,SIR_GAERFYRDDIN_-_CARMARTHENSHIRE,654.6666
+Brechfa,Llanegwad,SIR_GAERFYRDDIN_-_CARMARTHENSHIRE,56.03
+Llanfihangel Rhos-y-Corn,Llanfihangel Rhos-y-Corn,SIR_GAERFYRDDIN_-_CARMARTHENSHIRE,416
+Llanfynydd,Llanfynydd,SIR_GAERFYRDDIN_-_CARMARTHENSHIRE,453
+South,Llanfihangel Aberbythych,SIR_GAERFYRDDIN_-_CARMARTHENSHIRE,691.2701
+North,Llanfihangel Aberbythych,SIR_GAERFYRDDIN_-_CARMARTHENSHIRE,409.8309
+North,Llangathen,SIR_GAERFYRDDIN_-_CARMARTHENSHIRE,204.4927
+South,Llangathen,SIR_GAERFYRDDIN_-_CARMARTHENSHIRE,227.9615
+South,Llanfihangel-ar-Arth,SIR_GAERFYRDDIN_-_CARMARTHENSHIRE,1131.3605
+Llanllwni,Llanllwni,SIR_GAERFYRDDIN_-_CARMARTHENSHIRE,578
+Llanddeusant,Llanddeusant,SIR_GAERFYRDDIN_-_CARMARTHENSHIRE,204
+Dyffryn Ceidyrch,Llangadog,SIR_GAERFYRDDIN_-_CARMARTHENSHIRE,696.6928
+Llangadog,Llangadog,SIR_GAERFYRDDIN_-_CARMARTHENSHIRE,215.1178
+Gwynfe,Llangadog,SIR_GAERFYRDDIN_-_CARMARTHENSHIRE,218.1894
+Myddfai,Myddfai,SIR_GAERFYRDDIN_-_CARMARTHENSHIRE,328
+Penboyr,Llangeler,SIR_GAERFYRDDIN_-_CARMARTHENSHIRE,1206.4101
+Llangeler,Llangeler,SIR_GAERFYRDDIN_-_CARMARTHENSHIRE,1005.9268
+Drefach,Llangeler,SIR_GAERFYRDDIN_-_CARMARTHENSHIRE,704.2312
+Llangennech,Llangennech,SIR_GAERFYRDDIN_-_CARMARTHENSHIRE,4232.7392
+Llangunnor West,Llangunnor,SIR_GAERFYRDDIN_-_CARMARTHENSHIRE,1152.9322
+Llangunnor East,Llangunnor,SIR_GAERFYRDDIN_-_CARMARTHENSHIRE,1025.0678
+Pontiets,Llangyndeyrn,SIR_GAERFYRDDIN_-_CARMARTHENSHIRE,1368.2556
+Llangyndeyrn,Llangyndeyrn,SIR_GAERFYRDDIN_-_CARMARTHENSHIRE,730.9286
+Carway,Llangyndeyrn,SIR_GAERFYRDDIN_-_CARMARTHENSHIRE,1103.8158
+Tumble,Llannon,SIR_GAERFYRDDIN_-_CARMARTHENSHIRE,3115.2426
+Cross Hands,Llannon,SIR_GAERFYRDDIN_-_CARMARTHENSHIRE,1295.5062
+Llangain,Llangain,SIR_GAERFYRDDIN_-_CARMARTHENSHIRE,492
+Llangynog,Llangynog,SIR_GAERFYRDDIN_-_CARMARTHENSHIRE,426
+Llanybri,Llansteffan,SIR_GAERFYRDDIN_-_CARMARTHENSHIRE,458.3445
+Llansteffan,Llansteffan,SIR_GAERFYRDDIN_-_CARMARTHENSHIRE,319.6555
+North,Llanybydder,SIR_GAERFYRDDIN_-_CARMARTHENSHIRE,1145.9231
+South,Llanybydder,SIR_GAERFYRDDIN_-_CARMARTHENSHIRE,167.0661
+Pencarreg,Pencarreg,SIR_GAERFYRDDIN_-_CARMARTHENSHIRE,1045
+Pemberton,Llanelli Rural,SIR_GAERFYRDDIN_-_CARMARTHENSHIRE,3379.3925
+Salem,Manordeilo and Salem,SIR_GAERFYRDDIN_-_CARMARTHENSHIRE,594.1434
+Talley,Talley,SIR_GAERFYRDDIN_-_CARMARTHENSHIRE,558.2558
+Pembrey,Pembrey and Burry Port Town,SIR_GAERFYRDDIN_-_CARMARTHENSHIRE,3544.4072
+Saron,Llandybie,SIR_GAERFYRDDIN_-_CARMARTHENSHIRE,3570.741
+Wernddu,Ammanford,SIR_GAERFYRDDIN_-_CARMARTHENSHIRE,1078.2535
+Myddynfych,Ammanford,SIR_GAERFYRDDIN_-_CARMARTHENSHIRE,1154
+Pontyberem,Pontyberem,SIR_GAERFYRDDIN_-_CARMARTHENSHIRE,2340
+Quarter Bach,Quarter Bach,SIR_GAERFYRDDIN_-_CARMARTHENSHIRE,929.3744
+Brynamman,Quarter Bach,SIR_GAERFYRDDIN_-_CARMARTHENSHIRE,721.2432
+Llynfell,Quarter Bach,SIR_GAERFYRDDIN_-_CARMARTHENSHIRE,692.2384
+St. Clears,St. Clears,SIR_GAERFYRDDIN_-_CARMARTHENSHIRE,954.7177
+Llanfihangel Abercowin,St. Clears,SIR_GAERFYRDDIN_-_CARMARTHENSHIRE,1662.2823
+Llandyfaelog,Llandyfaelog,SIR_GAERFYRDDIN_-_CARMARTHENSHIRE,1177
+Picton,St. Ishmael,SIR_GAERFYRDDIN_-_CARMARTHENSHIRE,670.9405
+Llansaint,St. Ishmael,SIR_GAERFYRDDIN_-_CARMARTHENSHIRE,24.9373
+Glanyfferi,St. Ishmael,SIR_GAERFYRDDIN_-_CARMARTHENSHIRE,492.1222
+Tycroes,Llanedi,SIR_GAERFYRDDIN_-_CARMARTHENSHIRE,2013.038
+Swiss Valley,Llanelli Rural,SIR_GAERFYRDDIN_-_CARMARTHENSHIRE,2124.2742
+Abernant,Abernant,SIR_GAERFYRDDIN_-_CARMARTHENSHIRE,246
+Llanwinio,Llanwinio,SIR_GAERFYRDDIN_-_CARMARTHENSHIRE,394
+Meidrim,Meidrim,SIR_GAERFYRDDIN_-_CARMARTHENSHIRE,517
+Trelech,Trelech,SIR_GAERFYRDDIN_-_CARMARTHENSHIRE,655
+Trimsaran,Trimsaran,SIR_GAERFYRDDIN_-_CARMARTHENSHIRE,2025
+Henllanfallteg,Henllanfallteg,SIR_GAERFYRDDIN_-_CARMARTHENSHIRE,410
+South,Whitland,SIR_GAERFYRDDIN_-_CARMARTHENSHIRE,952.3875
+North,Whitland,SIR_GAERFYRDDIN_-_CARMARTHENSHIRE,622.6125
+Murton,Bishopston,ABERTAWE_-_SWANSEA,1172.8428
+Bishopston,Bishopston,ABERTAWE_-_SWANSEA,1569.3177
+Bonymaen,Bonymaen,ABERTAWE_-_SWANSEA,5874.3312
+Llansamlet,Llansamlet,ABERTAWE_-_SWANSEA,5830.86
+West,Coedffranc,CASTELL-NEDD_PORT_TALBOT_-_NEATH_PORT_TALBOT,3620.6442
+Castle,Castle,ABERTAWE_-_SWANSEA,11429.888
+Waterfront,Waterfront,ABERTAWE_-_SWANSEA,4058.8452
+Landore,Landore,ABERTAWE_-_SWANSEA,5906.7835
+Townhill,Townhill,ABERTAWE_-_SWANSEA,6469.2209
+Vardre,Clydach,ABERTAWE_-_SWANSEA,2311.436
+Glais,Clydach,ABERTAWE_-_SWANSEA,442.5872
+Clydach,Clydach,ABERTAWE_-_SWANSEA,1878.3032
+Graigfelen,Clydach,ABERTAWE_-_SWANSEA,1411.5165
+Craig-cefn-parc,Mawr,ABERTAWE_-_SWANSEA,951.0807
+Cockett,Cockett,ABERTAWE_-_SWANSEA,8692.8952
+Waunarlwydd,Waunarlwydd,ABERTAWE_-_SWANSEA,2593.1124
+Penderry,Penderry,ABERTAWE_-_SWANSEA,8476.5372
+Gowerton East,Gowerton,ABERTAWE_-_SWANSEA,1928.1658
+Cwmbwrla,Cwmbwrla,ABERTAWE_-_SWANSEA,6180.039
+Dunvant,Dunvant,ABERTAWE_-_SWANSEA,3585
+Three Crosses,Three Crosses,ABERTAWE_-_SWANSEA,1246
+Upper Killay,Upper Killay,ABERTAWE_-_SWANSEA,1077
+Gorseinon East,Gorseinon,ABERTAWE_-_SWANSEA,2051.8448
+Gorseinon Central,Gorseinon,ABERTAWE_-_SWANSEA,1257.6815
+Grovesend and Waungron,Grovesend and Waungron,ABERTAWE_-_SWANSEA,1043.5999
+Ilston,Ilston,ABERTAWE_-_SWANSEA,273.873
+Penmaen,Ilston,ABERTAWE_-_SWANSEA,75.6278
+Nicholaston,Ilston,ABERTAWE_-_SWANSEA,61.4992
+Llanmadoc,"Llangennith, Llanmadoc and Cheriton",ABERTAWE_-_SWANSEA,132.09
+Cheriton,"Llangennith, Llanmadoc and Cheriton",ABERTAWE_-_SWANSEA,123.36
+Llangennith,"Llangennith, Llanmadoc and Cheriton",ABERTAWE_-_SWANSEA,446.55
+Llanrhidian Lower,Llanrhidian Lower,ABERTAWE_-_SWANSEA,479
+Penrice,Penrice,ABERTAWE_-_SWANSEA,154.6545
+Oxwich,Penrice,ABERTAWE_-_SWANSEA,126.381
+Horton,Penrice,ABERTAWE_-_SWANSEA,27.9645
+Port Eynon,Port Eynon,ABERTAWE_-_SWANSEA,241.2248
+Llanddewi,Port Eynon,ABERTAWE_-_SWANSEA,171.6582
+Knelston,Port Eynon,ABERTAWE_-_SWANSEA,96.117
+Reynoldston,Reynoldston,ABERTAWE_-_SWANSEA,347
+Rhossili,Rhossili,ABERTAWE_-_SWANSEA,191
+Gowerton West,Gowerton,ABERTAWE_-_SWANSEA,2209.3994
+North,Killay,ABERTAWE_-_SWANSEA,2362.82
+South,Killay,ABERTAWE_-_SWANSEA,1910.18
+Kingsbridge,Llwchwr,ABERTAWE_-_SWANSEA,2409.829
+Garden Village,Llwchwr,ABERTAWE_-_SWANSEA,1362.8893
+Mynyddbach,Mynyddbach,ABERTAWE_-_SWANSEA,7281.3926
+Morriston,Morriston,ABERTAWE_-_SWANSEA,13265.3691
+Llangyfelach,Llangyfelach,ABERTAWE_-_SWANSEA,2136.4673
+Pontlliw and Tircoed,Pontlliw and Tircoed,ABERTAWE_-_SWANSEA,2008
+Birchgrove,Birchgrove,ABERTAWE_-_SWANSEA,6290
+Lower Loughor,Llwchwr,ABERTAWE_-_SWANSEA,1890.0048
+Upper Loughor,Llwchwr,ABERTAWE_-_SWANSEA,2395.8682
+Felindre,Mawr,ABERTAWE_-_SWANSEA,306.8919
+Garnswllt,Mawr,ABERTAWE_-_SWANSEA,276.7289
+Mayals,Mumbles,ABERTAWE_-_SWANSEA,2175
+Newton,Mumbles,ABERTAWE_-_SWANSEA,3377.7906
+Oystermouth,Mumbles,ABERTAWE_-_SWANSEA,3299.356
+Penclawdd,Llanrhidian Higher,ABERTAWE_-_SWANSEA,1909.8741
+Llannmorlais,Llanrhidian Higher,ABERTAWE_-_SWANSEA,1127.1259
+West,Penllergaer,ABERTAWE_-_SWANSEA,1109.3045
+East,Penllergaer,ABERTAWE_-_SWANSEA,1718.1017
+Southgate,Pennard,ABERTAWE_-_SWANSEA,1750.8175
+Kittle,Pennard,ABERTAWE_-_SWANSEA,508.022
+Gorseinon West,Gorseinon,ABERTAWE_-_SWANSEA,1420.7031
+Penyrheol,Gorseinon,ABERTAWE_-_SWANSEA,2377.4239
+Dulais West,Pontarddulais,ABERTAWE_-_SWANSEA,1545.8793
+Dulais East,Pontarddulais,ABERTAWE_-_SWANSEA,900.7811
+Pentrebach,Pontarddulais,ABERTAWE_-_SWANSEA,565.5768
+Tal-y-bont,Pontarddulais,ABERTAWE_-_SWANSEA,1574.005
+Goppa,Pontarddulais,ABERTAWE_-_SWANSEA,669.7343
+St. Thomas,St. Thomas,ABERTAWE_-_SWANSEA,5179.6481
+Sketty,Sketty,ABERTAWE_-_SWANSEA,12573.8667
+Uplands,Uplands,ABERTAWE_-_SWANSEA,12736.2318
+West Cross,Mumbles,ABERTAWE_-_SWANSEA,4868.8534
+Baglan Moors,Baglan Moors,CASTELL-NEDD_PORT_TALBOT_-_NEATH_PORT_TALBOT,1574.3136
+Aberavon,Aberavon,CASTELL-NEDD_PORT_TALBOT_-_NEATH_PORT_TALBOT,3033.1262
+Port Talbot,Port Talbot,CASTELL-NEDD_PORT_TALBOT_-_NEATH_PORT_TALBOT,4786.4481
+Cilfrew,Blaenhonddan,CASTELL-NEDD_PORT_TALBOT_-_NEATH_PORT_TALBOT,853.5255
+Aberdulais,Blaenhonddan,CASTELL-NEDD_PORT_TALBOT_-_NEATH_PORT_TALBOT,1008.0118
+Allt-wen,Cilybebyll,CASTELL-NEDD_PORT_TALBOT_-_NEATH_PORT_TALBOT,2222.5151
+Pontardawe,Pontardawe,CASTELL-NEDD_PORT_TALBOT_-_NEATH_PORT_TALBOT,3744.0281
+Baglan,Baglan,CASTELL-NEDD_PORT_TALBOT_-_NEATH_PORT_TALBOT,5433.8681
+Baglan Bay,Baglan Bay,CASTELL-NEDD_PORT_TALBOT_-_NEATH_PORT_TALBOT,208.8554
+Blaengwrach,Blaengwrach,CASTELL-NEDD_PORT_TALBOT_-_NEATH_PORT_TALBOT,904
+West Central,Glynneath,CASTELL-NEDD_PORT_TALBOT_-_NEATH_PORT_TALBOT,655.6456
+West,Glynneath,CASTELL-NEDD_PORT_TALBOT_-_NEATH_PORT_TALBOT,843.7811
+Craig-y-darren,Briton Ferry,CASTELL-NEDD_PORT_TALBOT_-_NEATH_PORT_TALBOT,918.8173
+Cwrt Sart,Briton Ferry,CASTELL-NEDD_PORT_TALBOT_-_NEATH_PORT_TALBOT,1533.7135
+Shelone Wood,Briton Ferry,CASTELL-NEDD_PORT_TALBOT_-_NEATH_PORT_TALBOT,1122.5622
+Brynhyfryd,Briton Ferry,CASTELL-NEDD_PORT_TALBOT_-_NEATH_PORT_TALBOT,1166.4378
+Bryn,Bryn,CASTELL-NEDD_PORT_TALBOT_-_NEATH_PORT_TALBOT,767
+Cwmavon,Cwmavon,CASTELL-NEDD_PORT_TALBOT_-_NEATH_PORT_TALBOT,4644.9002
+Pont-rhyd-y-fen,Pelenna,CASTELL-NEDD_PORT_TALBOT_-_NEATH_PORT_TALBOT,740.9359
+Bryn-Coch North,Blaenhonddan,CASTELL-NEDD_PORT_TALBOT_-_NEATH_PORT_TALBOT,1803.7612
+Bryn-Coch South,Blaenhonddan,CASTELL-NEDD_PORT_TALBOT_-_NEATH_PORT_TALBOT,4311.005
+Dyffryn Clydach,Dyffryn Clydach,CASTELL-NEDD_PORT_TALBOT_-_NEATH_PORT_TALBOT,3048.2028
+Cadoxton,Blaenhonddan,CASTELL-NEDD_PORT_TALBOT_-_NEATH_PORT_TALBOT,1402.7707
+Cefn Saeson,Neath,CASTELL-NEDD_PORT_TALBOT_-_NEATH_PORT_TALBOT,2103.1518
+Crynallt,Neath,CASTELL-NEDD_PORT_TALBOT_-_NEATH_PORT_TALBOT,1067.8482
+East Central,Coedffranc,CASTELL-NEDD_PORT_TALBOT_-_NEATH_PORT_TALBOT,2389.3792
+Central,Coedffranc,CASTELL-NEDD_PORT_TALBOT_-_NEATH_PORT_TALBOT,1673.8044
+North,Coedffranc,CASTELL-NEDD_PORT_TALBOT_-_NEATH_PORT_TALBOT,1895.2934
+West Central,Coedffranc,CASTELL-NEDD_PORT_TALBOT_-_NEATH_PORT_TALBOT,1001.9905
+Crynant,Crynant,CASTELL-NEDD_PORT_TALBOT_-_NEATH_PORT_TALBOT,1608
+Penrhiw Fawr,Cwmllynfell,CASTELL-NEDD_PORT_TALBOT_-_NEATH_PORT_TALBOT,362.6916
+Cwmllynfell,Cwmllynfell,CASTELL-NEDD_PORT_TALBOT_-_NEATH_PORT_TALBOT,593.4779
+Cymmer,Cymer and Glyncorrwg,CASTELL-NEDD_PORT_TALBOT_-_NEATH_PORT_TALBOT,1249.4852
+Gwynfi,Gwynfi and Croeserw,CASTELL-NEDD_PORT_TALBOT_-_NEATH_PORT_TALBOT,1839.5148
+Glyncorrwg,Cymer and Glyncorrwg,CASTELL-NEDD_PORT_TALBOT_-_NEATH_PORT_TALBOT,797
+Central,Glynneath,CASTELL-NEDD_PORT_TALBOT_-_NEATH_PORT_TALBOT,1307.0944
+East,Glynneath,CASTELL-NEDD_PORT_TALBOT_-_NEATH_PORT_TALBOT,636.4789
+Godre'r Graig,Ystalyfera,CASTELL-NEDD_PORT_TALBOT_-_NEATH_PORT_TALBOT,1604.171
+Gwaun-Cae-Gurwen,Gwaun-Cae-Gurwen,CASTELL-NEDD_PORT_TALBOT_-_NEATH_PORT_TALBOT,1348.4498
+Cwmgors,Gwaun-Cae-Gurwen,CASTELL-NEDD_PORT_TALBOT_-_NEATH_PORT_TALBOT,1025.5502
+Lower Brynamman,Gwaun-Cae-Gurwen,CASTELL-NEDD_PORT_TALBOT_-_NEATH_PORT_TALBOT,872.547
+Tai'r Gwaith,Gwaun-Cae-Gurwen,CASTELL-NEDD_PORT_TALBOT_-_NEATH_PORT_TALBOT,244.453
+Margam,Margam,CASTELL-NEDD_PORT_TALBOT_-_NEATH_PORT_TALBOT,2120.778
+Margam Moors,Margam Moors,CASTELL-NEDD_PORT_TALBOT_-_NEATH_PORT_TALBOT,314.0805
+Penrhiwtyn,Neath,CASTELL-NEDD_PORT_TALBOT_-_NEATH_PORT_TALBOT,2644.2768
+Melyncrythan,Neath,CASTELL-NEDD_PORT_TALBOT_-_NEATH_PORT_TALBOT,2328.8548
+Castle,Neath,CASTELL-NEDD_PORT_TALBOT_-_NEATH_PORT_TALBOT,839.349
+Mount Pleasant,Neath,CASTELL-NEDD_PORT_TALBOT_-_NEATH_PORT_TALBOT,2989.1241
+Llantwit,Neath,CASTELL-NEDD_PORT_TALBOT_-_NEATH_PORT_TALBOT,2355.1762
+Tonna,Tonna,CASTELL-NEDD_PORT_TALBOT_-_NEATH_PORT_TALBOT,2191.6568
+Gnoll,Neath,CASTELL-NEDD_PORT_TALBOT_-_NEATH_PORT_TALBOT,835.7235
+Onllwyn,Onllwyn,CASTELL-NEDD_PORT_TALBOT_-_NEATH_PORT_TALBOT,941
+Tonmawr,Pelenna,CASTELL-NEDD_PORT_TALBOT_-_NEATH_PORT_TALBOT,226.6293
+Trebanos,Pontardawe,CASTELL-NEDD_PORT_TALBOT_-_NEATH_PORT_TALBOT,1434.0846
+Rhyd-y-fro,Pontardawe,CASTELL-NEDD_PORT_TALBOT_-_NEATH_PORT_TALBOT,666.7678
+Clyne and Melincourt,Clyne and Melincourt,CASTELL-NEDD_PORT_TALBOT_-_NEATH_PORT_TALBOT,669
+Resolven North,Resolven,CASTELL-NEDD_PORT_TALBOT_-_NEATH_PORT_TALBOT,934.2313
+Abergarwed,Resolven,CASTELL-NEDD_PORT_TALBOT_-_NEATH_PORT_TALBOT,325.136
+Resolven South,Resolven,CASTELL-NEDD_PORT_TALBOT_-_NEATH_PORT_TALBOT,562.6327
+Rhos,Cilybebyll,CASTELL-NEDD_PORT_TALBOT_-_NEATH_PORT_TALBOT,1861.255
+Gellinudd,Cilybebyll,CASTELL-NEDD_PORT_TALBOT_-_NEATH_PORT_TALBOT,321.251
+Sandfields East,Sandfields East,CASTELL-NEDD_PORT_TALBOT_-_NEATH_PORT_TALBOT,5430.367
+Sandfields West,Sandfields West,CASTELL-NEDD_PORT_TALBOT_-_NEATH_PORT_TALBOT,5332.2461
+Seven Sisters,Seven Sisters,CASTELL-NEDD_PORT_TALBOT_-_NEATH_PORT_TALBOT,1657
+Tai-Bach,Tai-Bach,CASTELL-NEDD_PORT_TALBOT_-_NEATH_PORT_TALBOT,3930.3332
+Ystalyfera,Ystalyfera,CASTELL-NEDD_PORT_TALBOT_-_NEATH_PORT_TALBOT,2299.745
+Llangynwyd Lower,Llangynwyd Lower,PEN-Y-BONT_AR_OGWR_-_BRIDGEND,395
+Aberkenfig,Newcastle Higher,PEN-Y-BONT_AR_OGWR_-_BRIDGEND,1591.846
+Tondu,Ynysawdre,PEN-Y-BONT_AR_OGWR_-_BRIDGEND,1620.9525
+Bettws,Garw Valley,PEN-Y-BONT_AR_OGWR_-_BRIDGEND,1737
+Evanstown,Ogmore Valley,PEN-Y-BONT_AR_OGWR_-_BRIDGEND,795.284
+Blackmill,Ogmore Valley,PEN-Y-BONT_AR_OGWR_-_BRIDGEND,1231.582
+Gilfach Goch,Gilfach Goch,RHONDDA_CYNON_TAF_-_RHONDDA_CYNON_TAF,689.6253
+Blaengarw,Garw Valley,PEN-Y-BONT_AR_OGWR_-_BRIDGEND,1445
+Brackla East,Brackla,PEN-Y-BONT_AR_OGWR_-_BRIDGEND,2356.9125
+Brackla East Central,Brackla,PEN-Y-BONT_AR_OGWR_-_BRIDGEND,1798.0563
+Brackla West,Brackla,PEN-Y-BONT_AR_OGWR_-_BRIDGEND,2230.1862
+Oldcastle,Bridgend,PEN-Y-BONT_AR_OGWR_-_BRIDGEND,4283.0275
+Brackla West Central,Brackla,PEN-Y-BONT_AR_OGWR_-_BRIDGEND,2666.1304
+Coity,Coity Higher,PEN-Y-BONT_AR_OGWR_-_BRIDGEND,5243.3796
+Pendre,Coity Higher,PEN-Y-BONT_AR_OGWR_-_BRIDGEND,1967.1525
+Bryncethin,St. Bride's Minor,PEN-Y-BONT_AR_OGWR_-_BRIDGEND,1359
+Bryncoch,St. Bride's Minor,PEN-Y-BONT_AR_OGWR_-_BRIDGEND,1921.8236
+Laleston/Bryntirion,Laleston,PEN-Y-BONT_AR_OGWR_-_BRIDGEND,6995.7759
+Merthyr Mawr,Merthyr Mawr,PEN-Y-BONT_AR_OGWR_-_BRIDGEND,232.89
+Nantyffyllon,Maesteg,PEN-Y-BONT_AR_OGWR_-_BRIDGEND,2333.2914
+Caerau,Maesteg,PEN-Y-BONT_AR_OGWR_-_BRIDGEND,2954.5052
+Cefn Cribwr,Cefn Cribwr,PEN-Y-BONT_AR_OGWR_-_BRIDGEND,1256
+Cefn Glas 1,Laleston,PEN-Y-BONT_AR_OGWR_-_BRIDGEND,1435.4733
+Cefn Glas 2,Laleston,PEN-Y-BONT_AR_OGWR_-_BRIDGEND,1991.6108
+Cornelly,Cornelly,PEN-Y-BONT_AR_OGWR_-_BRIDGEND,5855.5668
+Coychurch Lower,Coychurch Lower,PEN-Y-BONT_AR_OGWR_-_BRIDGEND,1191
+Felindre,Pencoed,PEN-Y-BONT_AR_OGWR_-_BRIDGEND,2219
+Hendre,Pencoed,PEN-Y-BONT_AR_OGWR_-_BRIDGEND,3356.8008
+Penprysg,Pencoed,PEN-Y-BONT_AR_OGWR_-_BRIDGEND,1965.1992
+Litchard,Coity Higher,PEN-Y-BONT_AR_OGWR_-_BRIDGEND,2183.1123
+Llangeinor,Garw Valley,PEN-Y-BONT_AR_OGWR_-_BRIDGEND,1003
+Newcastle,Bridgend,PEN-Y-BONT_AR_OGWR_-_BRIDGEND,4535.348
+Pont-rhyd-y-cyff,Llangynwyd Middle,PEN-Y-BONT_AR_OGWR_-_BRIDGEND,1238.1262
+Cwmfelin,Llangynwyd Middle,PEN-Y-BONT_AR_OGWR_-_BRIDGEND,1247.8738
+East,Maesteg,PEN-Y-BONT_AR_OGWR_-_BRIDGEND,3936.4368
+West,Maesteg,PEN-Y-BONT_AR_OGWR_-_BRIDGEND,4718.7666
+Morfa,Bridgend,PEN-Y-BONT_AR_OGWR_-_BRIDGEND,3788.8034
+Nant-y-Moel,Ogmore Valley,PEN-Y-BONT_AR_OGWR_-_BRIDGEND,1922
+Newton,Porthcawl,PEN-Y-BONT_AR_OGWR_-_BRIDGEND,2247.66
+East Central,Porthcawl,PEN-Y-BONT_AR_OGWR_-_BRIDGEND,4496.0609
+Nottage,Porthcawl,PEN-Y-BONT_AR_OGWR_-_BRIDGEND,2644.2638
+Rest Bay,Porthcawl,PEN-Y-BONT_AR_OGWR_-_BRIDGEND,2231.5757
+Ogmore Vale,Ogmore Valley,PEN-Y-BONT_AR_OGWR_-_BRIDGEND,2522
+Coychurch Higher,Coychurch Higher,PEN-Y-BONT_AR_OGWR_-_BRIDGEND,746
+Pen-y-Fai,Newcastle Higher,PEN-Y-BONT_AR_OGWR_-_BRIDGEND,1917
+Pontycymmer,Garw Valley,PEN-Y-BONT_AR_OGWR_-_BRIDGEND,2001
+West Central,Porthcawl,PEN-Y-BONT_AR_OGWR_-_BRIDGEND,2426.5496
+Pyle,Pyle,PEN-Y-BONT_AR_OGWR_-_BRIDGEND,5897.5747
+Sarn,St. Bride's Minor,PEN-Y-BONT_AR_OGWR_-_BRIDGEND,1980
+Brynmenyn,Ynysawdre,PEN-Y-BONT_AR_OGWR_-_BRIDGEND,1342.3779
+Baruc,Barry,BRO_MORGANNWG_-_THE_VALE_OF_GLAMORGAN,7071.7745
+Illtyd,Barry,BRO_MORGANNWG_-_THE_VALE_OF_GLAMORGAN,6549.9969
+Buttrills,Barry,BRO_MORGANNWG_-_THE_VALE_OF_GLAMORGAN,5012.962
+Dyfan,Barry,BRO_MORGANNWG_-_THE_VALE_OF_GLAMORGAN,4544.5554
+Cadoc,Barry,BRO_MORGANNWG_-_THE_VALE_OF_GLAMORGAN,7875.1112
+Court,Barry,BRO_MORGANNWG_-_THE_VALE_OF_GLAMORGAN,3739.0308
+Twyn,Dinas Powys,BRO_MORGANNWG_-_THE_VALE_OF_GLAMORGAN,1384.8397
+Castleland,Barry,BRO_MORGANNWG_-_THE_VALE_OF_GLAMORGAN,3868.8842
+Cornerswell,Penarth,BRO_MORGANNWG_-_THE_VALE_OF_GLAMORGAN,4273.081
+Stanwell,Penarth,BRO_MORGANNWG_-_THE_VALE_OF_GLAMORGAN,3507.3938
+Llandough,Llandough,BRO_MORGANNWG_-_THE_VALE_OF_GLAMORGAN,1733.9098
+Aberthin,Cowbridge with Llanblethian,BRO_MORGANNWG_-_THE_VALE_OF_GLAMORGAN,455.6875
+Llanblethian East,Cowbridge with Llanblethian,BRO_MORGANNWG_-_THE_VALE_OF_GLAMORGAN,1004.8361
+Cowbridge,Cowbridge with Llanblethian,BRO_MORGANNWG_-_THE_VALE_OF_GLAMORGAN,1023.1494
+Llanblethian West,Cowbridge with Llanblethian,BRO_MORGANNWG_-_THE_VALE_OF_GLAMORGAN,1135.3549
+Llanfair,Llanfair,BRO_MORGANNWG_-_THE_VALE_OF_GLAMORGAN,242.9824
+St. Hilary,Llanfair,BRO_MORGANNWG_-_THE_VALE_OF_GLAMORGAN,276.0176
+Penllyn,Penllyn,BRO_MORGANNWG_-_THE_VALE_OF_GLAMORGAN,530.5736
+Llansannor,Penllyn,BRO_MORGANNWG_-_THE_VALE_OF_GLAMORGAN,264.9954
+Ystradowen,Penllyn,BRO_MORGANNWG_-_THE_VALE_OF_GLAMORGAN,515.431
+Cross Common,Dinas Powys,BRO_MORGANNWG_-_THE_VALE_OF_GLAMORGAN,2436.7123
+Eastbrook,Dinas Powys,BRO_MORGANNWG_-_THE_VALE_OF_GLAMORGAN,1346.8916
+Murch,Dinas Powys,BRO_MORGANNWG_-_THE_VALE_OF_GLAMORGAN,1360.8181
+Michaelston,Michaelston-le-Pit and Leckwith,BRO_MORGANNWG_-_THE_VALE_OF_GLAMORGAN,142.6515
+Leckwith,Michaelston-le-Pit and Leckwith,BRO_MORGANNWG_-_THE_VALE_OF_GLAMORGAN,133.56
+Gibbonsdown,Barry,BRO_MORGANNWG_-_THE_VALE_OF_GLAMORGAN,4228.8966
+Colwinston,Colwinston,BRO_MORGANNWG_-_THE_VALE_OF_GLAMORGAN,490
+Ewenny,Ewenny,BRO_MORGANNWG_-_THE_VALE_OF_GLAMORGAN,623
+Llysworney,Llandow,BRO_MORGANNWG_-_THE_VALE_OF_GLAMORGAN,225.2485
+Llandow,Llandow,BRO_MORGANNWG_-_THE_VALE_OF_GLAMORGAN,170.1554
+Llanmihangel,Llandow,BRO_MORGANNWG_-_THE_VALE_OF_GLAMORGAN,185.5673
+Llangan,Llangan,BRO_MORGANNWG_-_THE_VALE_OF_GLAMORGAN,396.8078
+St. Mary Hill,Llangan,BRO_MORGANNWG_-_THE_VALE_OF_GLAMORGAN,236.1922
+Llan-Maes,Llanmaes,BRO_MORGANNWG_-_THE_VALE_OF_GLAMORGAN,477.6546
+North,Llantwit Major,BRO_MORGANNWG_-_THE_VALE_OF_GLAMORGAN,2707.6894
+South East,Llantwit Major,BRO_MORGANNWG_-_THE_VALE_OF_GLAMORGAN,1464.3945
+Boverton,Llantwit Major,BRO_MORGANNWG_-_THE_VALE_OF_GLAMORGAN,2265.7049
+West,Llantwit Major,BRO_MORGANNWG_-_THE_VALE_OF_GLAMORGAN,1285.5794
+Pendoylan,Pendoylan,BRO_MORGANNWG_-_THE_VALE_OF_GLAMORGAN,442.3295
+Peterston-super-Ely,Peterston-super-Ely,BRO_MORGANNWG_-_THE_VALE_OF_GLAMORGAN,733
+St. Georges-super-Ely,St. Georges-super-Ely,BRO_MORGANNWG_-_THE_VALE_OF_GLAMORGAN,195.1047
+St. Brides-super-Ely,St. Georges-super-Ely,BRO_MORGANNWG_-_THE_VALE_OF_GLAMORGAN,137.8953
+Welsh St. Donats,Welsh St. Donats,BRO_MORGANNWG_-_THE_VALE_OF_GLAMORGAN,403.6705
+Plymouth,Penarth,BRO_MORGANNWG_-_THE_VALE_OF_GLAMORGAN,4711.5645
+Llancarfan,Llancarfan,BRO_MORGANNWG_-_THE_VALE_OF_GLAMORGAN,421.3396
+Llantrithyd,Llancarfan,BRO_MORGANNWG_-_THE_VALE_OF_GLAMORGAN,198.6604
+Rhoose,Rhoose,BRO_MORGANNWG_-_THE_VALE_OF_GLAMORGAN,5600
+St. Athan,St. Athan,BRO_MORGANNWG_-_THE_VALE_OF_GLAMORGAN,1120.0408
+Flemingston,St. Athan,BRO_MORGANNWG_-_THE_VALE_OF_GLAMORGAN,1848.7497
+Gileston,St. Athan,BRO_MORGANNWG_-_THE_VALE_OF_GLAMORGAN,343.2095
+St. Augustine's,Penarth,BRO_MORGANNWG_-_THE_VALE_OF_GLAMORGAN,5798.1015
+Grangetown,Grangetown,CAERDYDD_-_CARDIFF,16715.2751
+St. Bride's Major,St. Bride's Major,BRO_MORGANNWG_-_THE_VALE_OF_GLAMORGAN,886.5301
+Ogmore-by-Sea,St. Bride's Major,BRO_MORGANNWG_-_THE_VALE_OF_GLAMORGAN,1077.4699
+Wick,Wick,BRO_MORGANNWG_-_THE_VALE_OF_GLAMORGAN,777
+Sully,Sully and Lavernock,BRO_MORGANNWG_-_THE_VALE_OF_GLAMORGAN,3018.5021
+Lavernock,Sully and Lavernock,BRO_MORGANNWG_-_THE_VALE_OF_GLAMORGAN,823.7104
+Bonvilston,St. Nicholas and Bonvilston,BRO_MORGANNWG_-_THE_VALE_OF_GLAMORGAN,333.8814
+St. Nicholas,St. Nicholas and Bonvilston,BRO_MORGANNWG_-_THE_VALE_OF_GLAMORGAN,550.1186
+Wenvoe,Wenvoe,BRO_MORGANNWG_-_THE_VALE_OF_GLAMORGAN,1766.9524
+St. Lythans,Wenvoe,BRO_MORGANNWG_-_THE_VALE_OF_GLAMORGAN,549.0476
+Aberaman North,Aberaman North,RHONDDA_CYNON_TAF_-_RHONDDA_CYNON_TAF,4135.3589
+Aberaman South,Aberaman South,RHONDDA_CYNON_TAF_-_RHONDDA_CYNON_TAF,3902.1668
+Cwmbach,Cwmbach,RHONDDA_CYNON_TAF_-_RHONDDA_CYNON_TAF,4040.3652
+Abercynon,Abercynon,RHONDDA_CYNON_TAF_-_RHONDDA_CYNON_TAF,5123.928
+Aberdare East,Aberdare East,RHONDDA_CYNON_TAF_-_RHONDDA_CYNON_TAF,5675.9742
+Aberdare West,Aberdare West,RHONDDA_CYNON_TAF_-_RHONDDA_CYNON_TAF,6715.0526
+Llwydcoed,Llwydcoed,RHONDDA_CYNON_TAF_-_RHONDDA_CYNON_TAF,1397
+Beddau,Llantrisant,RHONDDA_CYNON_TAF_-_RHONDDA_CYNON_TAF,3373.1094
+Graig,Pontypridd Town,RHONDDA_CYNON_TAF_-_RHONDDA_CYNON_TAF,2098.1876
+Tyn-y-Nant,Llantrisant,RHONDDA_CYNON_TAF_-_RHONDDA_CYNON_TAF,2620.271
+Brynna,Llanharan,RHONDDA_CYNON_TAF_-_RHONDDA_CYNON_TAF,2197.9477
+Llanharan,Llanharan,RHONDDA_CYNON_TAF_-_RHONDDA_CYNON_TAF,3246.3154
+Llaniliad,Llanharan,RHONDDA_CYNON_TAF_-_RHONDDA_CYNON_TAF,1762.7001
+Church Village,Llantwit Fardre,RHONDDA_CYNON_TAF_-_RHONDDA_CYNON_TAF,5332.8085
+Cilfynydd,Pontypridd Town,RHONDDA_CYNON_TAF_-_RHONDDA_CYNON_TAF,2363.2432
+Trallwng,Pontypridd Town,RHONDDA_CYNON_TAF_-_RHONDDA_CYNON_TAF,3111.3417
+Cwm Clydach,Cwm Clydach,RHONDDA_CYNON_TAF_-_RHONDDA_CYNON_TAF,2212.9122
+Tonypandy,Tonypandy,RHONDDA_CYNON_TAF_-_RHONDDA_CYNON_TAF,2934.8997
+Cymmer,Cymmer,RHONDDA_CYNON_TAF_-_RHONDDA_CYNON_TAF,3823.5647
+Trehafod,Trehafod,RHONDDA_CYNON_TAF_-_RHONDDA_CYNON_TAF,779.9376
+Ferndale,Ferndale,RHONDDA_CYNON_TAF_-_RHONDDA_CYNON_TAF,3318.4878
+Ystrad,Ystrad,RHONDDA_CYNON_TAF_-_RHONDDA_CYNON_TAF,4393.7772
+Garden Village,Gilfach Goch,RHONDDA_CYNON_TAF_-_RHONDDA_CYNON_TAF,1120.7657
+Hendreforgan,Gilfach Goch,RHONDDA_CYNON_TAF_-_RHONDDA_CYNON_TAF,872.743
+Glyncoch,Pontypridd Town,RHONDDA_CYNON_TAF_-_RHONDDA_CYNON_TAF,2283.9346
+Lower,Ynysybwl and Coed-y-Cwm,RHONDDA_CYNON_TAF_-_RHONDDA_CYNON_TAF,2176.1953
+Rhondda,Pontypridd Town,RHONDDA_CYNON_TAF_-_RHONDDA_CYNON_TAF,3796.5677
+Town,Pontypridd Town,RHONDDA_CYNON_TAF_-_RHONDDA_CYNON_TAF,2452.205
+Rhydfelen Central,Pontypridd Town,RHONDDA_CYNON_TAF_-_RHONDDA_CYNON_TAF,2271.2809
+Hawthorn and Lower Rhydfelen,Pontypridd Town,RHONDDA_CYNON_TAF_-_RHONDDA_CYNON_TAF,1834.7177
+Upper Rhydfelen and Glyn-taf,Pontypridd Town,RHONDDA_CYNON_TAF_-_RHONDDA_CYNON_TAF,2878.4102
+Hirwaun,Hirwaun,RHONDDA_CYNON_TAF_-_RHONDDA_CYNON_TAF,3532.868
+Pontyclun Central,Pont-y-clun,RHONDDA_CYNON_TAF_-_RHONDDA_CYNON_TAF,2221.2182
+Talbot Green,Llantrisant,RHONDDA_CYNON_TAF_-_RHONDDA_CYNON_TAF,2087.1583
+Llanharry,Llanharry,RHONDDA_CYNON_TAF_-_RHONDDA_CYNON_TAF,2654.3876
+Tyle-garw,Llanharry,RHONDDA_CYNON_TAF_-_RHONDDA_CYNON_TAF,889.9003
+Llantrisant Town,Llantrisant,RHONDDA_CYNON_TAF_-_RHONDDA_CYNON_TAF,3745.0437
+Llantwit Fardre,Llantwit Fardre,RHONDDA_CYNON_TAF_-_RHONDDA_CYNON_TAF,3592.9804
+Efail Isaf,Llantwit Fardre,RHONDDA_CYNON_TAF_-_RHONDDA_CYNON_TAF,1362.6691
+Llwyn-y-pia,Llwyn-y-pia,RHONDDA_CYNON_TAF_-_RHONDDA_CYNON_TAF,2445.9888
+Maerdy,Maerdy,RHONDDA_CYNON_TAF_-_RHONDDA_CYNON_TAF,2531
+Mountain Ash East,Mountain Ash East,RHONDDA_CYNON_TAF_-_RHONDDA_CYNON_TAF,2592.5653
+Mountain Ash West,Mountain Ash West,RHONDDA_CYNON_TAF_-_RHONDDA_CYNON_TAF,3469.5046
+Penrhiwceiber,Penrhiw-ceiber,RHONDDA_CYNON_TAF_-_RHONDDA_CYNON_TAF,4577
+Pentre,Pentre,RHONDDA_CYNON_TAF_-_RHONDDA_CYNON_TAF,4262.0069
+Treorchy,Treorchy,RHONDDA_CYNON_TAF_-_RHONDDA_CYNON_TAF,6342.5762
+Pen-y-Graig,Pen-y-graig,RHONDDA_CYNON_TAF_-_RHONDDA_CYNON_TAF,4371.1878
+Penrhiw-fer,Tonyrefail,RHONDDA_CYNON_TAF_-_RHONDDA_CYNON_TAF,1254.8942
+Pen-y-Waun,Pen-y-waun,RHONDDA_CYNON_TAF_-_RHONDDA_CYNON_TAF,2270.9691
+Pontyclun East,Pont-y-clun,RHONDDA_CYNON_TAF_-_RHONDDA_CYNON_TAF,1707.9005
+Pontyclun West,Pont-y-clun,RHONDDA_CYNON_TAF_-_RHONDDA_CYNON_TAF,2107.5288
+Porth,Porth,RHONDDA_CYNON_TAF_-_RHONDDA_CYNON_TAF,4717.1207
+Penderyn,Hirwaun,RHONDDA_CYNON_TAF_-_RHONDDA_CYNON_TAF,726
+Rhigos,Rhigos,RHONDDA_CYNON_TAF_-_RHONDDA_CYNON_TAF,815.1753
+Treforest,Pontypridd Town,RHONDDA_CYNON_TAF_-_RHONDDA_CYNON_TAF,4528.0576
+Taffs Well,Taffs Well,RHONDDA_CYNON_TAF_-_RHONDDA_CYNON_TAF,1238.0425
+Ty-rhiw,Taffs Well,RHONDDA_CYNON_TAF_-_RHONDDA_CYNON_TAF,796.1985
+Tawelfryn,Taffs Well,RHONDDA_CYNON_TAF_-_RHONDDA_CYNON_TAF,654.6248
+Nantgarw,Taffs Well,RHONDDA_CYNON_TAF_-_RHONDDA_CYNON_TAF,306.5965
+Tongwynlais,Tongwynlais,CAERDYDD_-_CARDIFF,1449.8167
+Ton-teg,Llantwit Fardre,RHONDDA_CYNON_TAF_-_RHONDDA_CYNON_TAF,2602.0725
+Collena,Tonyrefail,RHONDDA_CYNON_TAF_-_RHONDDA_CYNON_TAF,1915.7406
+Tylcha,Tonyrefail,RHONDDA_CYNON_TAF_-_RHONDDA_CYNON_TAF,1805.5127
+Coedely,Tonyrefail,RHONDDA_CYNON_TAF_-_RHONDDA_CYNON_TAF,1253.7467
+Tynybryn,Tonyrefail,RHONDDA_CYNON_TAF_-_RHONDDA_CYNON_TAF,2573.049
+Thomastown,Tonyrefail,RHONDDA_CYNON_TAF_-_RHONDDA_CYNON_TAF,1714.0642
+Trealaw,Trealaw,RHONDDA_CYNON_TAF_-_RHONDDA_CYNON_TAF,2979.7548
+Treherbert,Treherbert,RHONDDA_CYNON_TAF_-_RHONDDA_CYNON_TAF,4628.7158
+Tylorstown,Tylorstown,RHONDDA_CYNON_TAF_-_RHONDDA_CYNON_TAF,3421.624
+Ynyshir,Ynyshir,RHONDDA_CYNON_TAF_-_RHONDDA_CYNON_TAF,2674.376
+Upper,Ynysybwl and Coed-y-Cwm,RHONDDA_CYNON_TAF_-_RHONDDA_CYNON_TAF,1537.9421
+Trelewis,Bedlinog,MERTHYR_TUDFUL_-_MERTHYR_TYDFIL,1924.7816
+Bedlinog,Bedlinog,MERTHYR_TUDFUL_-_MERTHYR_TYDFIL,1079.8983
+Treharris,Treharris,MERTHYR_TUDFUL_-_MERTHYR_TYDFIL,5231.8304
+Llwyncelyn,Nelson,CAERFFILI_-_CAERPHILLY,2374.8436
+Cyfarthfa,Cyfarthfa,MERTHYR_TUDFUL_-_MERTHYR_TYDFIL,5735.7658
+Troed-y-Rhiw,Troed-y-rhiw,MERTHYR_TUDFUL_-_MERTHYR_TYDFIL,4206.911
+Dowlais,Dowlais,MERTHYR_TUDFUL_-_MERTHYR_TYDFIL,3355.9946
+Town,Town,MERTHYR_TUDFUL_-_MERTHYR_TYDFIL,6545.076
+Pant,Pant,MERTHYR_TUDFUL_-_MERTHYR_TYDFIL,2096
+Gurnos,Gurnos,MERTHYR_TUDFUL_-_MERTHYR_TYDFIL,3986.3521
+Penydarren,Penydarren,MERTHYR_TUDFUL_-_MERTHYR_TYDFIL,4112.0866
+Park,Park,MERTHYR_TUDFUL_-_MERTHYR_TYDFIL,3521.8075
+Merthyr Vale,Merthyr Vale,MERTHYR_TUDFUL_-_MERTHYR_TYDFIL,3036
+Vaynor,Vaynor,MERTHYR_TUDFUL_-_MERTHYR_TYDFIL,2841.0265
+Aberbargoed,Bargoed,CAERFFILI_-_CAERPHILLY,3010.8073
+Cwmsyfiog,New Tredegar,CAERFFILI_-_CAERPHILLY,884.7599
+Abercarn,Abercarn,CAERFFILI_-_CAERPHILLY,4426.3536
+Abertridwr,Aber Valley,CAERFFILI_-_CAERPHILLY,2975.2507
+Senghenydd,Aber Valley,CAERFFILI_-_CAERPHILLY,2099.7493
+Markham,Argoed,CAERFFILI_-_CAERPHILLY,1104.5654
+Manmoel,Argoed,CAERFFILI_-_CAERPHILLY,269.7362
+Argoed,Argoed,CAERFFILI_-_CAERPHILLY,755.9088
+Hollybush,Argoed,CAERFFILI_-_CAERPHILLY,58.7896
+Park,Bargoed,CAERFFILI_-_CAERPHILLY,638.5314
+Bargoed,Bargoed,CAERFFILI_-_CAERPHILLY,4228.2564
+Gilfach,Bargoed,CAERFFILI_-_CAERPHILLY,1668.7761
+Bedwas,"Bedwas, Trethomas and Machen",CAERFFILI_-_CAERPHILLY,3102.6737
+Trethomas,"Bedwas, Trethomas and Machen",CAERFFILI_-_CAERPHILLY,2317.8557
+Machen,"Bedwas, Trethomas and Machen",CAERFFILI_-_CAERPHILLY,3044.0666
+Cefn Fforest East,Blackwood,CAERFFILI_-_CAERPHILLY,1732.0327
+Blackwood North,Blackwood,CAERFFILI_-_CAERPHILLY,1532.3683
+Blackwood Central,Blackwood,CAERFFILI_-_CAERPHILLY,2134.6122
+Blackwood South,Blackwood,CAERFFILI_-_CAERPHILLY,1372.2163
+Penmaen,Penmaen,CAERFFILI_-_CAERPHILLY,4580.8186
+Pontllanfraith,Pontllanfraith,CAERFFILI_-_CAERPHILLY,6884.1418
+Cefn Fforest,Cefn Fforest,CAERFFILI_-_CAERPHILLY,3021.3289
+Pengam,Pengam,CAERFFILI_-_CAERPHILLY,3040.1013
+Crosskeys,Crosskeys,CAERFFILI_-_CAERPHILLY,2684.6464
+Crumlin,Crumlin,CAERFFILI_-_CAERPHILLY,4731.4727
+Deri,Darran Valley,CAERFFILI_-_CAERPHILLY,923.651
+Fochriw,Darran Valley,CAERFFILI_-_CAERPHILLY,1116.8058
+Hengoed,Gelligaer,CAERFFILI_-_CAERPHILLY,2491.6489
+Cefn Hengoed,Gelligaer,CAERFFILI_-_CAERPHILLY,1888.3857
+Ystrad Mynach,Gelligaer,CAERFFILI_-_CAERPHILLY,4376.9654
+Wingfield,Llanbradach and Pwllypant,CAERFFILI_-_CAERPHILLY,1809.8487
+Llanbradach,Llanbradach and Pwllypant,CAERFFILI_-_CAERPHILLY,1319.8367
+Energlyn,"Penyrheol, Trecenydd and Energlyn",CAERFFILI_-_CAERPHILLY,1923.6775
+Pwll-y-pant,Llanbradach and Pwllypant,CAERFFILI_-_CAERPHILLY,242.4303
+Maesycwmmer,Maesycwmmer,CAERFFILI_-_CAERPHILLY,2034.2777
+Tonyfelin,Caerphilly,CAERFFILI_-_CAERPHILLY,1352.4251
+Parcyfelin,Caerphilly,CAERFFILI_-_CAERPHILLY,3780.3026
+Bryncenydd,Caerphilly,CAERFFILI_-_CAERPHILLY,1000.4335
+Trecenydd,"Penyrheol, Trecenydd and Energlyn",CAERFFILI_-_CAERPHILLY,4644.3721
+Castle,Caerphilly,CAERFFILI_-_CAERPHILLY,1680.5328
+Moriah,Rhymney,CAERFFILI_-_CAERPHILLY,1160.9018
+Twyn Carno,Rhymney,CAERFFILI_-_CAERPHILLY,2689.5132
+St David's,Rhymney,CAERFFILI_-_CAERPHILLY,438.0798
+Abertysswg,Rhymney,CAERFFILI_-_CAERPHILLY,1336.086
+Llanfabon,Nelson,CAERFFILI_-_CAERPHILLY,1405.5096
+Greenhill,Gelligaer,CAERFFILI_-_CAERPHILLY,2439.1601
+Newbridge,Newbridge,CAERFFILI_-_CAERPHILLY,5115.724
+Phillipstown,New Tredegar,CAERFFILI_-_CAERPHILLY,832.5674
+New Tredegar,New Tredegar,CAERFFILI_-_CAERPHILLY,916.8563
+Tir-phil,New Tredegar,CAERFFILI_-_CAERPHILLY,646.8568
+Brithdir,New Tredegar,CAERFFILI_-_CAERPHILLY,460.044
+Penyrheol,"Penyrheol, Trecenydd and Energlyn",CAERFFILI_-_CAERPHILLY,3295.5807
+Cwrt Rawlins,Caerphilly,CAERFFILI_-_CAERPHILLY,2068.8061
+Pontlottyn,Rhymney,CAERFFILI_-_CAERPHILLY,1413.9624
+Trenewydd,Risca East,CAERFFILI_-_CAERPHILLY,1805.3212
+Pontymister Ty-Sign,Risca East,CAERFFILI_-_CAERPHILLY,1889.7337
+Pontymister Upper,Risca East,CAERFFILI_-_CAERPHILLY,1334.6698
+Pontymister Lower,Risca West,CAERFFILI_-_CAERPHILLY,511.1554
+Risca Fernlea and Town,Risca West,CAERFFILI_-_CAERPHILLY,1481.0978
+North,Rogerstone,CASNEWYDD_-_NEWPORT,2977.2136
+Risca Danygraig,Risca West,CAERFFILI_-_CAERPHILLY,491.9947
+Ty-Isaf Fields Road,Risca West,CAERFFILI_-_CAERPHILLY,1778.0742
+Tir-y-berth,Gelligaer,CAERFFILI_-_CAERPHILLY,1420.0432
+Cascade,Gelligaer,CAERFFILI_-_CAERPHILLY,2353.7565
+Rudry,Rudry,CAERFFILI_-_CAERPHILLY,554.4466
+Llanfedw,Rudry,CAERFFILI_-_CAERPHILLY,284.5188
+Rhydygwern,Rudry,CAERFFILI_-_CAERPHILLY,84.0346
+Porset,Van,CAERFFILI_-_CAERPHILLY,1700.4922
+Brynau,Van,CAERFFILI_-_CAERPHILLY,844.8038
+Lansbury,Van,CAERFFILI_-_CAERPHILLY,1069.6188
+Watford,Caerphilly,CAERFFILI_-_CAERPHILLY,1489.3188
+Twyn,Caerphilly,CAERFFILI_-_CAERPHILLY,1676.7835
+Ynysddu,Ynysddu,CAERFFILI_-_CAERPHILLY,3232.858
+Abertillery,Abertillery,BLAENAU_GWENT_-_BLAENAU_GWENT,3667.7896
+Six Bells,Abertillery,BLAENAU_GWENT_-_BLAENAU_GWENT,1884.3582
+Cwmtillery,Abertillery,BLAENAU_GWENT_-_BLAENAU_GWENT,3434.6598
+Badminton,Badminton,BLAENAU_GWENT_-_BLAENAU_GWENT,2568.5466
+Rassau,Rassau,BLAENAU_GWENT_-_BLAENAU_GWENT,2541.7616
+Beaufort,Beaufort,BLAENAU_GWENT_-_BLAENAU_GWENT,2118.7458
+Garnlydan,Garnlydan,BLAENAU_GWENT_-_BLAENAU_GWENT,793.5045
+Blaina,Nantyglo and Blaina,BLAENAU_GWENT_-_BLAENAU_GWENT,3745.0091
+Brynmawr South,Brynmawr,BLAENAU_GWENT_-_BLAENAU_GWENT,2172.8445
+Brynmawr North,Brynmawr,BLAENAU_GWENT_-_BLAENAU_GWENT,2069.9009
+Nantyglo,Nantyglo and Blaina,BLAENAU_GWENT_-_BLAENAU_GWENT,3754.8794
+Cwm,Cwm,BLAENAU_GWENT_-_BLAENAU_GWENT,3351.3732
+Ebbw Vale North,Ebbw Vale North,BLAENAU_GWENT_-_BLAENAU_GWENT,3815.2393
+Ebbw Vale South,Ebbw Vale South,BLAENAU_GWENT_-_BLAENAU_GWENT,3397.3875
+Georgetown,Tredegar,BLAENAU_GWENT_-_BLAENAU_GWENT,3232.0755
+Central and West,Tredegar,BLAENAU_GWENT_-_BLAENAU_GWENT,4576.7517
+Sirhowy,Tredegar,BLAENAU_GWENT_-_BLAENAU_GWENT,4366.1728
+Llanhilleth,Llanhilleth,BLAENAU_GWENT_-_BLAENAU_GWENT,1837.4659
+Aberbeeg,Llanhilleth,BLAENAU_GWENT_-_BLAENAU_GWENT,1800.7176
+Abersychan and Cwmavon,Abersychan,TORFAEN_-_TORFAEN,3091.354
+Snatchwood,Pen Tranch,TORFAEN_-_TORFAEN,1834.5907
+Garndiffaith and Varteg,Abersychan,TORFAEN_-_TORFAEN,2348.8949
+East,Blaenavon,TORFAEN_-_TORFAEN,1974.6636
+West,Blaenavon,TORFAEN_-_TORFAEN,2844.3364
+Brynwern,Pontymoile,TORFAEN_-_TORFAEN,1351.4102
+Wainfelin,Pen Tranch,TORFAEN_-_TORFAEN,1988.2132
+Cwmyniscoy,Pontymoile,TORFAEN_-_TORFAEN,1180.9537
+Coed Eva,Fairwater,TORFAEN_-_TORFAEN,1976.3123
+Henllys,Henllys,TORFAEN_-_TORFAEN,2116.5652
+Croesyceiliog North,Croesyceiliog,TORFAEN_-_TORFAEN,2802.0965
+Croesyceiliog South,Croesyceiliog,TORFAEN_-_TORFAEN,1530.552
+Fairwater,Fairwater,TORFAEN_-_TORFAEN,1690.3518
+Ty Canol,Fairwater,TORFAEN_-_TORFAEN,2396.8911
+St. Dials,Cwmbran Central,TORFAEN_-_TORFAEN,3676.5542
+Greenmeadow,Fairwater,TORFAEN_-_TORFAEN,2071.2229
+Thornhill,Upper Cwmbran,TORFAEN_-_TORFAEN,1731.4932
+Southville,Cwmbran Central,TORFAEN_-_TORFAEN,1313.1814
+Llantarnam,Llantarnam,TORFAEN_-_TORFAEN,4039.87
+Llanyrafon West,Llanyrafon,TORFAEN_-_TORFAEN,1800.3759
+Llanyrafon East,Llanyrafon,TORFAEN_-_TORFAEN,798.6241
+Ponthir,Ponthir,TORFAEN_-_TORFAEN,1199.2002
+New Inn Lower,New Inn,TORFAEN_-_TORFAEN,2371.5738
+New Inn Upper,New Inn,TORFAEN_-_TORFAEN,2612.7777
+Griffithstown East,Panteg,TORFAEN_-_TORFAEN,1595.7524
+Sebastopol East,Panteg,TORFAEN_-_TORFAEN,2450.3186
+Sebastopol West,Panteg,TORFAEN_-_TORFAEN,1193.6656
+Griffithstown West,Panteg,TORFAEN_-_TORFAEN,962.2414
+Northville,Cwmbran Central,TORFAEN_-_TORFAEN,1024.0607
+Mount Pleasant,Pontnewydd,TORFAEN_-_TORFAEN,1257.814
+Lowlands and Avondale,Pontnewydd,TORFAEN_-_TORFAEN,3378.9742
+Pontnewynydd,Pen Tranch,TORFAEN_-_TORFAEN,1177.4621
+Pontypool,Pontymoile,TORFAEN_-_TORFAEN,1582.6351
+St. Cadocs and Penygarn,Trevethin,TORFAEN_-_TORFAEN,1451.3823
+Trevethin,Trevethin,TORFAEN_-_TORFAEN,2595.0775
+Two Locks,Cwmbran Central,TORFAEN_-_TORFAEN,2784
+Upper Cwmbran West,Upper Cwmbran,TORFAEN_-_TORFAEN,1625.7783
+Upper Cwmbran East,Upper Cwmbran,TORFAEN_-_TORFAEN,1289.8262
+St. Brides Netherwent,Caerwent,SIR_FYNWY_-_MONMOUTHSHIRE,314.9527
+Caerwent,Caerwent,SIR_FYNWY_-_MONMOUTHSHIRE,637.223
+Rogiet,Rogiet,SIR_FYNWY_-_MONMOUTHSHIRE,1951.2441
+Llanvair Discoed,Caerwent,SIR_FYNWY_-_MONMOUTHSHIRE,193.3708
+Dinham,Caerwent,SIR_FYNWY_-_MONMOUTHSHIRE,554.7535
+Crick,Caerwent,SIR_FYNWY_-_MONMOUTHSHIRE,198.7282
+Caldicot Castle,Caldicot,SIR_FYNWY_-_MONMOUTHSHIRE,1578.1642
+Caldicot Cross,Caldicot,SIR_FYNWY_-_MONMOUTHSHIRE,1310.3156
+The Village,Caldicot,SIR_FYNWY_-_MONMOUTHSHIRE,1145.3654
+Cantref,Abergavenny,SIR_FYNWY_-_MONMOUTHSHIRE,1544.0255
+Lansdown,Abergavenny,SIR_FYNWY_-_MONMOUTHSHIRE,1920.96
+Llanwenarth Citra,Abergavenny,SIR_FYNWY_-_MONMOUTHSHIRE,301.489
+Grofield,Abergavenny,SIR_FYNWY_-_MONMOUTHSHIRE,2169.8747
+Pen Y Fal,Abergavenny,SIR_FYNWY_-_MONMOUTHSHIRE,1555.6673
+Croesonen,Llantilio Pertholey,SIR_FYNWY_-_MONMOUTHSHIRE,1581.0503
+Park,Abergavenny,SIR_FYNWY_-_MONMOUTHSHIRE,1529.0465
+Sgyrrid,Llantilio Pertholey,SIR_FYNWY_-_MONMOUTHSHIRE,613.0092
+Cwmyoy,Crucorney,SIR_FYNWY_-_MONMOUTHSHIRE,167.003
+Forest and Ffwddog,Crucorney,SIR_FYNWY_-_MONMOUTHSHIRE,226.9585
+"Bwlch, Trewyn and Oldcastle",Crucorney,SIR_FYNWY_-_MONMOUTHSHIRE,47.8957
+Pandy,Crucorney,SIR_FYNWY_-_MONMOUTHSHIRE,132.643
+Llanvihangel Crucorney,Crucorney,SIR_FYNWY_-_MONMOUTHSHIRE,455.6418
+Llangattock Lingoed,Grosmont,SIR_FYNWY_-_MONMOUTHSHIRE,86.3758
+Llanvetherine,Skenfrith,SIR_FYNWY_-_MONMOUTHSHIRE,130.3611
+Grosmont,Grosmont,SIR_FYNWY_-_MONMOUTHSHIRE,560.1476
+Llanvihangel Tor-Y-Mynydd,Devauden,SIR_FYNWY_-_MONMOUTHSHIRE,214.0492
+Devauden,Devauden,SIR_FYNWY_-_MONMOUTHSHIRE,287.4363
+Itton,Devauden,SIR_FYNWY_-_MONMOUTHSHIRE,362.4268
+Kilgwrrwg,Devauden,SIR_FYNWY_-_MONMOUTHSHIRE,82.1216
+Llangwm,Llantrisant Fawr,SIR_FYNWY_-_MONMOUTHSHIRE,247.1967
+Llansoy,Llantrisant Fawr,SIR_FYNWY_-_MONMOUTHSHIRE,101.8033
+Dewstow,Caldicot,SIR_FYNWY_-_MONMOUTHSHIRE,1537.1129
+West End,Caldicot,SIR_FYNWY_-_MONMOUTHSHIRE,1618.8332
+Osbaston,Monmouth,SIR_FYNWY_-_MONMOUTHSHIRE,1807.5387
+Drybridge,Monmouth,SIR_FYNWY_-_MONMOUTHSHIRE,2269.67
+Town,Monmouth,SIR_FYNWY_-_MONMOUTHSHIRE,1560.2703
+Overmonnow,Monmouth,SIR_FYNWY_-_MONMOUTHSHIRE,1650.4307
+Goytre,Goetre Fawr,SIR_FYNWY_-_MONMOUTHSHIRE,773.0179
+Nant-Y-Derry,Goetre Fawr,SIR_FYNWY_-_MONMOUTHSHIRE,371.7049
+Goetre Wharf,Goetre Fawr,SIR_FYNWY_-_MONMOUTHSHIRE,908.4725
+Little Mill,Llanbadoc,SIR_FYNWY_-_MONMOUTHSHIRE,355.86
+Larkfield,Chepstow,SIR_FYNWY_-_MONMOUTHSHIRE,1344.6261
+Chepstow Castle,Chepstow,SIR_FYNWY_-_MONMOUTHSHIRE,1516.3777
+Gwehelog,Raglan,SIR_FYNWY_-_MONMOUTHSHIRE,234.234
+Kemeys Commander and Llancayo,Llanarth,SIR_FYNWY_-_MONMOUTHSHIRE,194.766
+Glascoed,Llanbadoc,SIR_FYNWY_-_MONMOUTHSHIRE,281.9313
+Llanbadoc,Llanbadoc,SIR_FYNWY_-_MONMOUTHSHIRE,330.3023
+Monkswood,Llanbadoc,SIR_FYNWY_-_MONMOUTHSHIRE,154.7664
+Gilwern,Llanelly,SIR_FYNWY_-_MONMOUTHSHIRE,2729.2031
+Clydach,Llanelly,SIR_FYNWY_-_MONMOUTHSHIRE,348.0458
+Darrenfelen,Llanelly,SIR_FYNWY_-_MONMOUTHSHIRE,400.7511
+Llanfoist,Llanfoist Fawr,SIR_FYNWY_-_MONMOUTHSHIRE,1340.7577
+Llanellen,Llanfoist Fawr,SIR_FYNWY_-_MONMOUTHSHIRE,665.9543
+Govilon,Llanfoist Fawr,SIR_FYNWY_-_MONMOUTHSHIRE,1185.5554
+Llangybi,Llangybi,SIR_FYNWY_-_MONMOUTHSHIRE,536.4136
+Llandegfedd,Llangybi,SIR_FYNWY_-_MONMOUTHSHIRE,148.2888
+Coed-y-paen,Llangybi,SIR_FYNWY_-_MONMOUTHSHIRE,99.2976
+Tredunnock,Llangybi,SIR_FYNWY_-_MONMOUTHSHIRE,171.4656
+Llanhennock,Llangybi,SIR_FYNWY_-_MONMOUTHSHIRE,135.1288
+Llangattock-nigh-Caerleon,Llangybi,SIR_FYNWY_-_MONMOUTHSHIRE,117.4056
+Llantrisant,Llantrisant Fawr,SIR_FYNWY_-_MONMOUTHSHIRE,232.8025
+Gwernesney,Llantrisant Fawr,SIR_FYNWY_-_MONMOUTHSHIRE,138.1975
+Clytha,Llanarth,SIR_FYNWY_-_MONMOUTHSHIRE,289.432
+Llanarth,Llanarth,SIR_FYNWY_-_MONMOUTHSHIRE,184.5675
+Bryngwyn,Llanarth,SIR_FYNWY_-_MONMOUTHSHIRE,144.059
+Llandewi Rhydderch,Gobion Fawr,SIR_FYNWY_-_MONMOUTHSHIRE,451.1847
+Raglan,Raglan,SIR_FYNWY_-_MONMOUTHSHIRE,1097.3063
+Llanvapley,Gobion Fawr,SIR_FYNWY_-_MONMOUTHSHIRE,77.744
+Penrhos,Whitecastle,SIR_FYNWY_-_MONMOUTHSHIRE,177.8716
+Llangattock-nigh-Usk,Gobion Fawr,SIR_FYNWY_-_MONMOUTHSHIRE,354.197
+Llanfair Cilgydyn,Gobion Fawr,SIR_FYNWY_-_MONMOUTHSHIRE,202.9095
+Skenfrith,Skenfrith,SIR_FYNWY_-_MONMOUTHSHIRE,164.5062
+Cross Ash,Skenfrith,SIR_FYNWY_-_MONMOUTHSHIRE,243.1834
+Newcastle,Whitecastle,SIR_FYNWY_-_MONMOUTHSHIRE,200.4645
+Rockfield and St. Maughans,Whitecastle,SIR_FYNWY_-_MONMOUTHSHIRE,367.4784
+Llangattock Vibon Avel,Whitecastle,SIR_FYNWY_-_MONMOUTHSHIRE,79.2322
+Llanvihangel-Ystern-Llwern,Whitecastle,SIR_FYNWY_-_MONMOUTHSHIRE,154.8297
+Whitecastle,Whitecastle,SIR_FYNWY_-_MONMOUTHSHIRE,224.0494
+Pantygelli,Llantilio Pertholey,SIR_FYNWY_-_MONMOUTHSHIRE,145.53
+Mardy,Llantilio Pertholey,SIR_FYNWY_-_MONMOUTHSHIRE,920.707
+Magor East,Magor with Undy,SIR_FYNWY_-_MONMOUTHSHIRE,1845.5409
+Undy,Magor with Undy,SIR_FYNWY_-_MONMOUTHSHIRE,988.4933
+Magor West,Magor with Undy,SIR_FYNWY_-_MONMOUTHSHIRE,1666.4656
+Cwmcarvan,Mitchel Troy,SIR_FYNWY_-_MONMOUTHSHIRE,405.2801
+Mitchell Troy,Mitchel Troy,SIR_FYNWY_-_MONMOUTHSHIRE,208.6987
+Dingestow,Mitchel Troy,SIR_FYNWY_-_MONMOUTHSHIRE,91.7318
+Tregare,Mitchel Troy,SIR_FYNWY_-_MONMOUTHSHIRE,186.0381
+Wonastow,Mitchel Troy,SIR_FYNWY_-_MONMOUTHSHIRE,156.5875
+Portskewett Village,Portskewett,SIR_FYNWY_-_MONMOUTHSHIRE,854.6541
+Leechpool,Portskewett,SIR_FYNWY_-_MONMOUTHSHIRE,442.7944
+Sudbrook,Portskewett,SIR_FYNWY_-_MONMOUTHSHIRE,569.4652
+Severn,Caldicot,SIR_FYNWY_-_MONMOUTHSHIRE,926.6153
+Pen-y-Clawdd,Mitchel Troy,SIR_FYNWY_-_MONMOUTHSHIRE,161.1841
+Kingcoed,Raglan,SIR_FYNWY_-_MONMOUTHSHIRE,170.8438
+Llandenny,Raglan,SIR_FYNWY_-_MONMOUTHSHIRE,215.1783
+St. Arvans,St. Arvans,SIR_FYNWY_-_MONMOUTHSHIRE,539.5452
+St. Kingsmark,Chepstow,SIR_FYNWY_-_MONMOUTHSHIRE,1653.1352
+Shirenewton and Mynyddbach,Shirenewton,SIR_FYNWY_-_MONMOUTHSHIRE,661.0448
+Tintern,Wye Valley,SIR_FYNWY_-_MONMOUTHSHIRE,471.4561
+Trellech Grange,Trellech United,SIR_FYNWY_-_MONMOUTHSHIRE,105.9755
+Bulwark,Chepstow,SIR_FYNWY_-_MONMOUTHSHIRE,1666.9682
+Maple Avenue,Chepstow,SIR_FYNWY_-_MONMOUTHSHIRE,664.7125
+Mount Pleasant,Chepstow,SIR_FYNWY_-_MONMOUTHSHIRE,1597.5766
+Mathern,Mathern,SIR_FYNWY_-_MONMOUTHSHIRE,548.5775
+Thornwell,Chepstow,SIR_FYNWY_-_MONMOUTHSHIRE,1577.1994
+Pwllmeyric,Mathern,SIR_FYNWY_-_MONMOUTHSHIRE,108.8096
+Mounton,Mathern,SIR_FYNWY_-_MONMOUTHSHIRE,117.5247
+Earlswood and Newchurch,Shirenewton,SIR_FYNWY_-_MONMOUTHSHIRE,333.289
+Trellech Town,Trellech United,SIR_FYNWY_-_MONMOUTHSHIRE,716.0292
+Llanishen,Trellech United,SIR_FYNWY_-_MONMOUTHSHIRE,166.325
+Llandogo,Wye Valley,SIR_FYNWY_-_MONMOUTHSHIRE,428.4068
+Narth,Trellech United,SIR_FYNWY_-_MONMOUTHSHIRE,280.426
+Whitebrook,Trellech United,SIR_FYNWY_-_MONMOUTHSHIRE,99.427
+Catbrook,Trellech United,SIR_FYNWY_-_MONMOUTHSHIRE,192.935
+Penallt,Trellech United,SIR_FYNWY_-_MONMOUTHSHIRE,425.4196
+Usk,Usk,SIR_FYNWY_-_MONMOUTHSHIRE,2358
+Wyesham,Monmouth,SIR_FYNWY_-_MONMOUTHSHIRE,1784
+Allt-yr-Yn,Allt-yr-Yn,CASNEWYDD_-_NEWPORT,7832.4495
+Gaer,Gaer,CASNEWYDD_-_NEWPORT,7221.2931
+Shaftesbury,Shaftesbury,CASNEWYDD_-_NEWPORT,4234.8082
+Alway,Alway,CASNEWYDD_-_NEWPORT,6696.589
+Caerleon,Caerleon,CASNEWYDD_-_NEWPORT,6715.3821
+Beechwood,Beechwood,CASNEWYDD_-_NEWPORT,6155.1557
+Victoria,Victoria,CASNEWYDD_-_NEWPORT,7102.0809
+St. Julians,St. Julians,CASNEWYDD_-_NEWPORT,7184.5313
+Bettws,Bettws,CASNEWYDD_-_NEWPORT,6555
+Tredegar Park,Tredegar Park,CASNEWYDD_-_NEWPORT,4010.0909
+Rhiwderin,Graig,CASNEWYDD_-_NEWPORT,1482.1114
+Bassaleg,Graig,CASNEWYDD_-_NEWPORT,2724.1594
+Lower Machen,Graig,CASNEWYDD_-_NEWPORT,62.8251
+West,Rogerstone,CASNEWYDD_-_NEWPORT,5667.2734
+Langstone,Langstone,CASNEWYDD_-_NEWPORT,2319.6649
+Llanmartin,Langstone,CASNEWYDD_-_NEWPORT,603.3351
+Llanvaches,Llanvaches,CASNEWYDD_-_NEWPORT,338
+Penhow,Penhow,CASNEWYDD_-_NEWPORT,644
+Liswerry,Liswerry,CASNEWYDD_-_NEWPORT,10566.5098
+Nash,Nash,CASNEWYDD_-_NEWPORT,232
+Underwood,Bishton,CASNEWYDD_-_NEWPORT,1297.1622
+Bishton,Bishton,CASNEWYDD_-_NEWPORT,458.8378
+Goldcliff,Goldcliff,CASNEWYDD_-_NEWPORT,277
+Redwick,Redwick,CASNEWYDD_-_NEWPORT,189
+Malpas,Malpas,CASNEWYDD_-_NEWPORT,6295.9664
+Marshfield,Marshfield,CASNEWYDD_-_NEWPORT,2544
+Michaelstone-y-Fedw,Michaelstone-y-Fedw,CASNEWYDD_-_NEWPORT,262
+St. Brides,Wentlooge,CASNEWYDD_-_NEWPORT,418.7784
+Peterstone,Wentlooge,CASNEWYDD_-_NEWPORT,258.2216
+Pillgwenlly,Pillgwenlly,CASNEWYDD_-_NEWPORT,6032.8223
+Stow Hill,Stow Hill,CASNEWYDD_-_NEWPORT,5510.3585
+Ringland,Ringland,CASNEWYDD_-_NEWPORT,6549.0285
+Llanwern,Llanwern,CASNEWYDD_-_NEWPORT,1922.6525
+East,Rogerstone,CASNEWYDD_-_NEWPORT,2352.4044
+Coedkernew,Coedkernew,CASNEWYDD_-_NEWPORT,1756.2111
+Adamsdown,Adamsdown,CAERDYDD_-_CARDIFF,9931.3301
+Splott,Splott,CAERDYDD_-_CARDIFF,5861.2668
+Penylan,Penylan,CAERDYDD_-_CARDIFF,10643.2202
+Butetown,Butetown,CAERDYDD_-_CARDIFF,10742.8149
+Caerau,Caerau,CAERDYDD_-_CARDIFF,8902.6246
+Ely,Ely,CAERDYDD_-_CARDIFF,11092.8875
+Canton,Canton,CAERDYDD_-_CARDIFF,13033.1089
+Riverside,Riverside,CAERDYDD_-_CARDIFF,6008.94
+Cathays,Cathays,CAERDYDD_-_CARDIFF,18419.7466
+Gabalfa,Gabalfa,CAERDYDD_-_CARDIFF,8376.3337
+Cregiau,Pentyrch,CAERDYDD_-_CARDIFF,2182.0636
+St. Fagans,St. Fagans,CAERDYDD_-_CARDIFF,2505.5106
+Cyncoed,Cyncoed,CAERDYDD_-_CARDIFF,9414.6143
+Heath,Heath,CAERDYDD_-_CARDIFF,10203.4854
+Fairwater,Fairwater,CAERDYDD_-_CARDIFF,10455.0105
+Llandaff,Llandaff,CAERDYDD_-_CARDIFF,7393.7671
+Lisvane,Lisvane,CAERDYDD_-_CARDIFF,3044.54
+Llandaff North,Llandaff North,CAERDYDD_-_CARDIFF,6316.5902
+Radyr South,Radyr and Morganstown,CAERDYDD_-_CARDIFF,2445.6359
+Pontcanna,Pontcanna,CAERDYDD_-_CARDIFF,5332.6193
+Whitchurch,Whitchurch,CAERDYDD_-_CARDIFF,11835.7112
+Llanishen,Llanishen,CAERDYDD_-_CARDIFF,8266.4068
+Thornhill,Thornhill,CAERDYDD_-_CARDIFF,5830.8994
+Llanrumney,Llanrumney,CAERDYDD_-_CARDIFF,8823.4419
+Pentwyn,Pentwyn,CAERDYDD_-_CARDIFF,5918.6306
+Rumney,Rumney,CAERDYDD_-_CARDIFF,7128.2509
+Old St. Mellons,Old St. Mellons,CAERDYDD_-_CARDIFF,3874.1577
+Llanedeyrn,Llanedeyrn,CAERDYDD_-_CARDIFF,6085.0666
+Pontprennau,Pontprennau,CAERDYDD_-_CARDIFF,5674.2645
+Gwaelodygarth,Pentyrch,CAERDYDD_-_CARDIFF,1001.9906
+Pentyrch,Pentyrch,CAERDYDD_-_CARDIFF,1917.4474
+Roath,Roath,CAERDYDD_-_CARDIFF,16443.6728
+Radyr North,Radyr and Morganstown,CAERDYDD_-_CARDIFF,1314.2874
+Morganstown,Radyr and Morganstown,CAERDYDD_-_CARDIFF,1874.3222
+Rhiwbina,Rhiwbina,CAERDYDD_-_CARDIFF,9486.2582
+Tremorfa,Tremorfa,CAERDYDD_-_CARDIFF,5210.1137
+Trowbridge,Trowbridge,CAERDYDD_-_CARDIFF,12681.5183
+Llanbedr,The Vale of Grwyney,POWYS_-_POWYS,356.6466
+Marcross,St. Donats,BRO_MORGANNWG_-_THE_VALE_OF_GLAMORGAN,230.7086
+Monknash,St. Donats,BRO_MORGANNWG_-_THE_VALE_OF_GLAMORGAN,174.0208
+St. Donats,St. Donats,BRO_MORGANNWG_-_THE_VALE_OF_GLAMORGAN,107.2194
+Castle,Castle,CAERDYDD_-_CARDIFF,2453.6646
+Prenteg,Dolbenmaen,GWYNEDD_-_GWYNEDD,294.4089
+Rosemarket,Rosemarket,SIR_BENFRO_-_PEMBROKESHIRE,511.1031
