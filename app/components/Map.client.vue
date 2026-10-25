@@ -18,6 +18,8 @@ const emit = defineEmits<{
 
 const target = useTemplateRef<HTMLElement>("target");
 
+const fillMode = ref(false);
+
 const width = 500;
 const height = 500;
 
@@ -165,11 +167,20 @@ function loadTopology(
         .on("pointerenter", (event, feature) => {
             const community = feature.properties.community;
             const area = feature.properties.file_name;
+
             emit("mouseover", {
                 ward: feature.properties.name,
                 community: community,
                 area: area,
             });
+
+            if (fillMode.value) {
+                emit("mousedown", {
+                    ward: feature.properties.name,
+                    community,
+                    area,
+                });
+            }
             const target = event.target as SVGElement | null;
             target?.setAttribute("stroke-width", "0.1%");
             target?.setAttribute("stroke", "#072f5f");
@@ -271,9 +282,30 @@ watch(
     { deep: true },
 );
 
+function handleKeyDown(event: KeyboardEvent) {
+  if (event.key == "f") {
+      fillMode.value = true;
+  }
+}
+
+function handleKeyUp(event: KeyboardEvent) {
+  if (event.key == "f") {
+      fillMode.value = false;
+  }
+}
+
 onMounted(() => {
     loadTopology(props.topology, props.object_key!, width, height);
+
+    window.addEventListener("keydown", handleKeyDown);
+    window.addEventListener("keyup", handleKeyUp);
 });
+
+onUnmounted(() => {
+  window.removeEventListener("keydown", handleKeyDown);
+  window.removeEventListener("keyup", handleKeyUp);
+})
+
 </script>
 
 <template>

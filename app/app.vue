@@ -38,7 +38,10 @@ const {
     data: population_csv,
     status: population_status,
     error: population_error,
-} = await useFetch("/community_wards_population.csv", { deep: false, server: false });
+} = await useFetch("/community_wards_population.csv", {
+    deep: false,
+    server: false,
+});
 const populationReady = ref(false);
 
 const hoveredWard = reactive({
@@ -50,7 +53,8 @@ const hoveredWard = reactive({
 
 const wardAreaKey = (area: CommunityWardArea): string =>
     `${area.area}~${area.community}~${area.ward}`;
-const populationMapKey = (area: string, community: string, ward: string) => `${area}~${community}~${ward}`;
+const populationMapKey = (area: string, community: string, ward: string) =>
+    `${area}~${community}~${ward}`;
 
 const appState = reactive<{
     assignment: Constituency[];
@@ -201,7 +205,11 @@ watch(population_status, () => {
         console.log("population loaded", population_csv);
 
         const populationData = d3.csvParse(population_csv.value);
-        if (!["ward", "community", "area", "population"].every(col => populationData.columns.includes(col))) {
+        if (
+            !["ward", "community", "area", "population"].every((col) =>
+                populationData.columns.includes(col),
+            )
+        ) {
             console.error("missing one of the required columns!");
             return;
         }
@@ -238,7 +246,15 @@ watch(population_status, () => {
                         v-if="hoveredWard.active"
                         :ward="hoveredWard.ward"
                         :community="hoveredWard.community"
-                        :population="appState.population.get(populationMapKey(hoveredWard.area, hoveredWard.community, hoveredWard.ward))"
+                        :population="
+                            appState.population.get(
+                                populationMapKey(
+                                    hoveredWard.area,
+                                    hoveredWard.community,
+                                    hoveredWard.ward,
+                                ),
+                            )
+                        "
                     />
                     <Map
                         v-if="topologyReady"
