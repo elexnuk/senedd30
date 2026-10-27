@@ -72,7 +72,7 @@ let nextIndex = 0;
 function createConstituency() {
     appState.assignment.push({
         index: nextIndex,
-        name: `Consistuency #${appState.assignment.length + 1}`,
+        name: `Constituency #${appState.assignment.length + 1}`,
         colour: "#d50000",
         areas: [],
     });
